@@ -11,6 +11,26 @@
 	
 	
 	<item>
+		<title>Project</title>
+		<link>https://mat383.com/projects/project/</link>
+		<pubDate>Fri, 26 Jul 2024 23:39:09 +1000</pubDate>
+		
+		<guid>https://mat383.com/projects/project/</guid>
+		<description>&lt;p&gt;Text&amp;hellip;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Test Project</title>
+		<link>https://mat383.com/projects/test-project/</link>
+		<pubDate>Fri, 26 Jul 2024 22:58:19 +1000</pubDate>
+		
+		<guid>https://mat383.com/projects/test-project/</guid>
+		<description>&lt;p&gt;THIS PAGE IS REAL&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Testpost 2</title>
 		<link>https://mat383.com/posts/testpost-2/</link>
 		<pubDate>Fri, 26 Jul 2024 18:17:22 +1000</pubDate>
