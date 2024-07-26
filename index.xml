@@ -5,10 +5,20 @@
 	<description>Recent content on mat383.com (under construction)</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sun, 21 Jul 2024 15:43:58 +1000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jul 2024 18:17:22 +1000</lastBuildDate>
     
         <atom:link href="https://mat383.com/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Testpost 2</title>
+		<link>https://mat383.com/posts/testpost-2/</link>
+		<pubDate>Fri, 26 Jul 2024 18:17:22 +1000</pubDate>
+		
+		<guid>https://mat383.com/posts/testpost-2/</guid>
+		<description>&lt;p&gt;This is some more text&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>About</title>
