@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mat383.com/posts/example-post/</loc>
+    <lastmod>2024-07-27T14:33:43+10:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/posts/</loc>
+    <lastmod>2024-07-27T14:33:43+10:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/tag1/</loc>
+    <lastmod>2024-07-27T14:33:43+10:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/tag3/</loc>
+    <lastmod>2024-07-27T14:33:43+10:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/</loc>
+    <lastmod>2024-07-27T14:33:43+10:00</lastmod>
+  </url><url>
     <loc>https://mat383.com/</loc>
     <lastmod>2024-07-27T14:20:48+10:00</lastmod>
   </url><url>
@@ -14,19 +29,7 @@
     <loc>https://mat383.com/projects/test-project/</loc>
     <lastmod>2024-07-26T22:58:19+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/posts/</loc>
-    <lastmod>2024-07-26T18:17:22+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/tag1/</loc>
-    <lastmod>2024-07-26T18:17:22+10:00</lastmod>
-  </url><url>
     <loc>https://mat383.com/tags/tag2/</loc>
-    <lastmod>2024-07-26T18:17:22+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/tag3/</loc>
-    <lastmod>2024-07-26T18:17:22+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/</loc>
     <lastmod>2024-07-26T18:17:22+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/posts/testpost-2/</loc>

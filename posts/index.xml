@@ -5,10 +5,19 @@
 	<description>Recent content in Posts on mat383.com (under construction)</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Fri, 26 Jul 2024 18:17:22 +1000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jul 2024 14:33:43 +1000</lastBuildDate>
     
         <atom:link href="https://mat383.com/posts/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Example Post</title>
+		<link>https://mat383.com/posts/example-post/</link>
+		<pubDate>Sat, 27 Jul 2024 14:33:43 +1000</pubDate>
+		
+		<guid>https://mat383.com/posts/example-post/</guid>
+		<description></description>
+	</item>
 	
 	<item>
 		<title>Project</title>
@@ -41,7 +50,7 @@
 	</item>
 	
 	<item>
-		<title>About</title>
+		<title>About me</title>
 		<link>https://mat383.com/about/</link>
 		<pubDate>Sun, 21 Jul 2024 15:43:58 +1000</pubDate>
 		
