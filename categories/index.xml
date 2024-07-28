@@ -11,10 +11,10 @@
 	
 	<item>
 		<title>Example Post Title</title>
-		<link>https://mat383.com/posts/example-post/</link>
+		<link>https://mat383.com/blog/example-post/</link>
 		<pubDate>Sat, 27 Jul 2024 14:33:43 +1000</pubDate>
 		
-		<guid>https://mat383.com/posts/example-post/</guid>
+		<guid>https://mat383.com/blog/example-post/</guid>
 		<description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
 &lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Semper iaculis scelerisque; adipiscing suscipit urna maecenas orci habitasse. Interdum massa consequat porta malesuada; inceptos pharetra augue sapien. Nisl mollis tempor tempor vel vehicula euismod arcu. Ornare efficitur maximus tincidunt eu justo, pulvinar donec. Consequat magnis litora orci nostra urna sagittis.&lt;/p&gt;
 &lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
@@ -43,10 +43,10 @@
 	
 	<item>
 		<title>Testpost 2</title>
-		<link>https://mat383.com/posts/testpost-2/</link>
+		<link>https://mat383.com/blog/testpost-2/</link>
 		<pubDate>Fri, 26 Jul 2024 18:17:22 +1000</pubDate>
 		
-		<guid>https://mat383.com/posts/testpost-2/</guid>
+		<guid>https://mat383.com/blog/testpost-2/</guid>
 		<description>&lt;p&gt;This is some more text&lt;/p&gt;
 </description>
 	</item>
@@ -63,10 +63,10 @@
 	
 	<item>
 		<title>Testpost</title>
-		<link>https://mat383.com/posts/testpost/</link>
+		<link>https://mat383.com/blog/testpost/</link>
 		<pubDate>Sun, 21 Jul 2024 13:16:41 +1000</pubDate>
 		
-		<guid>https://mat383.com/posts/testpost/</guid>
+		<guid>https://mat383.com/blog/testpost/</guid>
 		<description>&lt;p&gt;Typing typing text&lt;/p&gt;
 </description>
 	</item>

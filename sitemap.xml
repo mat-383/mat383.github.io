@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mat383.com/posts/example-post/</loc>
+    <loc>https://mat383.com/blog/</loc>
     <lastmod>2024-07-27T14:33:43+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/posts/</loc>
+    <loc>https://mat383.com/blog/example-post/</loc>
     <lastmod>2024-07-27T14:33:43+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/tags/tag1/</loc>
@@ -32,13 +32,13 @@
     <loc>https://mat383.com/tags/tag2/</loc>
     <lastmod>2024-07-26T18:17:22+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/posts/testpost-2/</loc>
+    <loc>https://mat383.com/blog/testpost-2/</loc>
     <lastmod>2024-07-26T18:17:22+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/about/</loc>
     <lastmod>2024-07-21T15:43:58+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/posts/testpost/</loc>
+    <loc>https://mat383.com/blog/testpost/</loc>
     <lastmod>2024-07-21T13:16:41+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/categories/</loc>
