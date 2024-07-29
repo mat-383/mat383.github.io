@@ -2,7 +2,7 @@
   <channel>
 	<title>mat383.com (under construction)</title>
 	<link>https://mat383.com/tags/tag2/</link>
-	<description>Recent content in tag2 on mat383.com (under construction)</description>
+	<description>Blog posts from in tag2 mat383.com (under construction)</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Fri, 26 Jul 2024 18:17:22 +1000</lastBuildDate>
@@ -103,42 +103,12 @@
 	</item>
 	
 	<item>
-		<title>Project</title>
-		<link>https://mat383.com/projects/project/</link>
-		<pubDate>Fri, 26 Jul 2024 23:39:09 +1000</pubDate>
-		
-		<guid>https://mat383.com/projects/project/</guid>
-		<description>&lt;p&gt;Text&amp;hellip;&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>Test Project</title>
-		<link>https://mat383.com/projects/test-project/</link>
-		<pubDate>Fri, 26 Jul 2024 22:58:19 +1000</pubDate>
-		
-		<guid>https://mat383.com/projects/test-project/</guid>
-		<description>&lt;p&gt;THIS PAGE IS REAL&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
 		<title>Testpost 2</title>
 		<link>https://mat383.com/blog/testpost-2/</link>
 		<pubDate>Fri, 26 Jul 2024 18:17:22 +1000</pubDate>
 		
 		<guid>https://mat383.com/blog/testpost-2/</guid>
 		<description>&lt;p&gt;This is some more text&lt;/p&gt;
-</description>
-	</item>
-	
-	<item>
-		<title>About me</title>
-		<link>https://mat383.com/about/</link>
-		<pubDate>Sun, 21 Jul 2024 15:43:58 +1000</pubDate>
-		
-		<guid>https://mat383.com/about/</guid>
-		<description>&lt;p&gt;Here is an about page.&lt;/p&gt;
 </description>
 	</item>
 	
