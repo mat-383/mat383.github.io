@@ -76,8 +76,8 @@
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;if (1 + 1 == 2):
     ping 192.168.0.1
     print(&amp;quot;i_am_hacking_you!!!!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Throwback time! Here are those same flowers but in WebP format. The file is smaller, but some old browsers can&amp;rsquo;t see them.
-&lt;img src=&#34;https://mat383.com/images/flowers.webp&#34; alt=&#34;An image of some flowers&#34;&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here are some more flowers but in WebP format. The file is smaller, but some old browsers can&amp;rsquo;t see them.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mat383.com/images/flowers.webp&#34; alt=&#34;An image of some flowers&#34;&gt;&lt;/p&gt;
 &lt;dl&gt;
 &lt;dt&gt;Dictionary of whats&lt;/dt&gt;
 &lt;dd&gt;what&lt;/dd&gt;
@@ -85,10 +85,10 @@
 &lt;dd&gt;whaaaaaaaaat&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;h2 id=&#34;some-more-images-and-videos&#34;&gt;Some more images and videos&lt;/h2&gt;
-&lt;p&gt;Here is an animated GIF
-&lt;img src=&#34;https://mat383.com/images/fire.gif&#34; alt=&#34;Fire&#34;&gt;&lt;/p&gt;
-&lt;p&gt;And here is a video
-&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;Here is an animated GIF:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mat383.com/images/fire.gif&#34; alt=&#34;Fire&#34;&gt;&lt;/p&gt;
+&lt;p&gt;And here is a video:
+&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; width=&#34;320&#34; height=&#34;240&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;This is the end of the page, here is a link to &lt;a href=&#34;https://mat383.com/&#34;&gt;get outta here&lt;/a&gt;.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
