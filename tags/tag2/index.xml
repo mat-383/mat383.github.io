@@ -89,7 +89,7 @@
 &lt;p&gt;Here is an animated GIF
 &lt;img src=&#34;https://mat383.com/images/fire.gif&#34; alt=&#34;Fire&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And here is a video
-&lt;video src=&#34;videos/firewatch.mp4&#34; width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; width=&#34;320&#34; height=&#34;240&#34; controls&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;This is the end of the page, here is a link to &lt;a href=&#34;https://mat383.com/&#34;&gt;get outta here&lt;/a&gt;.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
