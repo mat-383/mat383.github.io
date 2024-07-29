@@ -36,7 +36,7 @@
 &lt;p&gt;&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;An image of some flowers&#34;&gt;
 &lt;span class=&#34;figcaption&#34;&gt;oh wow&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Hey, I found some more:&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;flowers2&#34; width=&#34;150&#34; height=&#34;100&#34; /&gt;
+&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;flowers2&#34; width=&#34;150&#34;/&gt;
 &lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
 &lt;p&gt;Brb I have to draw a horizontal line in the middle of the page&lt;/p&gt;
 &lt;hr&gt;
@@ -48,7 +48,7 @@
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test every single&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; markdown feature&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
-&lt;p&gt;Below is a table, take a seat:&lt;/p&gt;
+&lt;p&gt;Below is a table, take a seat:&lt;div class=&#34;scrollabletable&#34;&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -67,6 +67,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
 &lt;h6 id=&#34;heading-6-this-is-really-small&#34;&gt;Heading 6 (this is really small)&lt;/h6&gt;
 &lt;p&gt;Text&lt;/p&gt;
 &lt;blockquote&gt;
