@@ -3,6 +3,7 @@
 	<title>mat383.com (under construction)</title>
 	<link>https://mat383.com/tags/tag1/</link>
 	<description>Blog posts from in tag1 mat383.com (under construction)</description>
+	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sat, 27 Jul 2024 14:33:43 +1000</lastBuildDate>
