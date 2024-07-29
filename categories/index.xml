@@ -34,8 +34,8 @@
 &lt;p&gt;And here are some flowers:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;An image of some flowers&#34;&gt;
 &lt;span class=&#34;figcaption&#34;&gt;oh wow&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Hey, I found some more:
-&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;flowers2&#34; width=&#34;150&#34; height=&#34;100&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Hey, I found some more:&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/flowers.jpg&#34; alt=&#34;flowers2&#34; width=&#34;150&#34; height=&#34;100&#34; /&gt;
 &lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
 &lt;p&gt;Brb I have to draw a horizontal line in the middle of the page&lt;/p&gt;
 &lt;hr&gt;
@@ -87,8 +87,8 @@
 &lt;h2 id=&#34;some-more-images-and-videos&#34;&gt;Some more images and videos&lt;/h2&gt;
 &lt;p&gt;Here is an animated GIF:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://mat383.com/images/fire.gif&#34; alt=&#34;Fire&#34;&gt;&lt;/p&gt;
-&lt;p&gt;And here is a video:
-&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; width=&#34;320&#34; height=&#34;240&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;And here is a video:&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;This is the end of the page, here is a link to &lt;a href=&#34;https://mat383.com/&#34;&gt;get outta here&lt;/a&gt;.&lt;/p&gt;
 &lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
