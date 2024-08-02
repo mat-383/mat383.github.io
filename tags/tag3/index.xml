@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>mat383.com (under construction)</title>
+	<title>mat383.com</title>
 	<link>https://mat383.com/tags/tag3/</link>
-	<description>Blog posts from in tag3 mat383.com (under construction)</description>
+	<description>Blog posts from in tag3 mat383.com</description>
 	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
