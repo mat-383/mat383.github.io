@@ -76,7 +76,59 @@
 <footer>
 	
 	
+		<button id="loadComments" class="loadcommentsbutton">
+			<p>Load Comments</p>
+			<div class="loadcommentsicons">
+				<img class="loadcommentsicon1" src="/comments.svg">
+				<img class="loadcommentsicon2" src="/comments-green.svg">
+			</div>
+		</button>
+		<script>
+			
+			var remark_config = {
+				host: 'http://remark42.mat383.com',
+				site_id: 'remark',
+				theme: 'dark',
+				show_email_subscription: false,
+				show_rss_subscription: true,
+			};
+			
+			function loadRemark42() {
+				var components = remark_config.components || ["embed"];
+				var head = document.head || document.body;
+				
+				for (var i = 0; i < components.length; i++) {
+					var script = document.createElement("script");
+					var extension = ".js";
+					
+					
+					if ("noModule" in script) {
+						script.type = "module";
+						extension = ".mjs";
+					}
+					
+					script.async = true;
+					script.defer = true;
+					script.src = remark_config.host + "/web/" + components[i] + extension;
+					head.appendChild(script);
+
+					
+					setTimeout(function() { 
+						var loadCommentsButton = document.getElementById('loadComments');
+						loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+					}, 200);
+					
+					
+				}
+			}
+			
+			document.getElementById('loadComments').addEventListener('click', function() {
+				loadRemark42();
+			});
+		</script>
+
 		
+		<div id="remark42" class="remark42"></div>
 	
 	<br>
 	<br>
