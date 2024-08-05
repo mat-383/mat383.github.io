@@ -6,7 +6,8 @@
 	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<meta name="description" content="">
+	<meta name="description" content="Right now, I am&hellip; Adding a couple more features to this website before going back to study.
+Configuring Remark42 went pretty smoothly (this time) and prettying up the CSS with animations was fun.">
 	
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,19 +29,79 @@
 
 <main>
 <header>
-	<br><h1 id="tag_Now" class="pagetitle">Now</h1>
-	<p class="pagesummary"></p>
+	
+	
+	<p class="datewritten classicdatewritten"><time>Updated: 05 Aug. 2024</time></p>
 </header>
 
 
 
-
+<h1 id="right-now-i-am">Right now, I am&hellip;</h1>
+<p>Adding a couple more features to this website before going back to study.</p>
+<p>Configuring Remark42 went pretty smoothly <strong>(this time)</strong> and prettying up the CSS with animations was fun.</p>
+<br>
 
 
 </main>
 
 <footer>
 	
+	
+		<button id="loadComments" class="loadcommentsbutton">
+			<p>Load Comments</p>
+			<div class="loadcommentsicons">
+				
+					<img class="loadcommentsicon1" src="/icons/comments.svg">
+					<img class="loadcommentsicon2" src="/icons/comments-green.svg">
+				
+			</div>
+		</button>
+		<script>
+			
+			var remark_config = {
+				host: 'https://remark42.mat383.com',
+				site_id: 'remark',
+				theme: 'dark',
+				show_email_subscription: false,
+				show_rss_subscription: true,
+			};
+			
+			function loadRemark42() {
+				var components = remark_config.components || ["embed"];
+				var head = document.head || document.body;
+				
+				for (var i = 0; i < components.length; i++) {
+					var script = document.createElement("script");
+					var extension = ".js";
+					
+					
+					if ("noModule" in script) {
+						script.type = "module";
+						extension = ".mjs";
+					}
+					
+					script.async = true;
+					script.defer = true;
+					script.src = remark_config.host + "/web/" + components[i] + extension;
+					head.appendChild(script);
+
+					
+					setTimeout(function() { 
+						var loadCommentsButton = document.getElementById('loadComments');
+						loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+					}, 200);
+					
+					
+				}
+			}
+			
+			document.getElementById('loadComments').addEventListener('click', function() {
+				loadRemark42();
+			});
+		</script>
+
+		
+		<div id="remark42" class="remark42"></div>
 	
 	<br>
 	<br>
