@@ -12,10 +12,9 @@ selectbg: rgb(240, 240, 240, 0.2);
    old browsers don't support those */
 
 html {
-	background-color: #121212;
 	font-family: sans-serif;
-	color: #ccc;
 	line-height: 25px;
+	/*some more things in top of the html itself*/
 }
 main {
 	margin: auto;
