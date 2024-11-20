@@ -104,15 +104,17 @@
 <footer>
 	
 	
-		<button id="loadComments" class="loadcommentsbutton">
-			<p>Load Comments</p>
-			<div class="loadcommentsicons">
-				
-					<img class="loadcommentsicon1" src="/icons/comments.svg">
-					<img class="loadcommentsicon2" src="/icons/comments-green.svg">
-				
-			</div>
-		</button>
+		<div id="commentSection">
+			<button id="loadComments" class="loadcommentsbutton">
+				<p>Load Comments</p>
+				<div class="loadcommentsicons">
+					
+						<img class="loadcommentsicon1" src="/icons/comments.svg">
+						<img class="loadcommentsicon2" src="/icons/comments-green.svg">
+					
+				</div>
+			</button>
+		</div>
 		<script>
 			
 			var remark_config = {
@@ -124,6 +126,11 @@
 			};
 			
 			function loadRemark42() {
+				if (window.location.protocol !== 'https:') {
+					document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+					return;
+				}
+				
 				var components = remark_config.components || ["embed"];
 				var head = document.head || document.body;
 				
