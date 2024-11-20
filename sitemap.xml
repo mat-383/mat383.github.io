@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mat383.com/blog/</loc>
+    <loc>http://localhost:38383/now/</loc>
+    <lastmod>2024-11-20T16:46:41+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:38383/blog/</loc>
     <lastmod>2024-08-21T05:54:00+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/blog/cairns-holiday-pics/</loc>
+    <loc>http://localhost:38383/blog/cairns-holiday-pics/</loc>
     <lastmod>2024-08-21T05:54:00+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/tags/outside/</loc>
+    <loc>http://localhost:38383/tags/outside/</loc>
     <lastmod>2024-08-21T05:54:00+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/tags/</loc>
+    <loc>http://localhost:38383/tags/</loc>
     <lastmod>2024-08-21T05:54:00+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/now/</loc>
-    <lastmod>2024-08-07T02:47:41+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/blog/building-this-website/</loc>
+    <loc>http://localhost:38383/blog/building-this-website/</loc>
     <lastmod>2024-08-03T04:23:38+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/tags/website/</loc>
+    <loc>http://localhost:38383/tags/website/</loc>
     <lastmod>2024-08-03T04:23:38+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/projects/</loc>
+    <loc>http://localhost:38383/projects/</loc>
     <lastmod>2024-07-29T23:40:46+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/</loc>
+    <loc>http://localhost:38383/</loc>
     <lastmod>2024-07-27T14:20:48+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/contact/</loc>
+    <loc>http://localhost:38383/contact/</loc>
     <lastmod>2024-07-21T15:43:58+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/fanclub/</loc>
+    <loc>http://localhost:38383/fanclub/</loc>
   </url><url>
-    <loc>https://mat383.com/secretclub/</loc>
+    <loc>http://localhost:38383/secretclub/</loc>
   </url><url>
-    <loc>https://mat383.com/categories/</loc>
+    <loc>http://localhost:38383/categories/</loc>
   </url>
 </urlset>

@@ -1,114 +1,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>mat383.com</title>
-	<link>https://mat383.com/projects/</link>
+	<link>http://localhost:38383/projects/</link>
 	<description>Blog posts from in Projects mat383.com</description>
 	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Mon, 29 Jul 2024 23:40:46 +1000</lastBuildDate>
     
-        <atom:link href="https://mat383.com/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:38383/projects/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Holiday Pictures from Cairns</title>
-		<link>https://mat383.com/blog/cairns-holiday-pics/</link>
+		<link>http://localhost:38383/blog/cairns-holiday-pics/</link>
 		<pubDate>Wed, 21 Aug 2024 05:54:00 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/cairns-holiday-pics/</guid>
+		<guid>http://localhost:38383/blog/cairns-holiday-pics/</guid>
 		<description>&lt;h2 id=&#34;so-basically&#34;&gt;So basically&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I went to Cairns (in Australia) with my family recently and I want to share some of my favourite pictures.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;I compressed all of the pictures and videos a bit because there were so many of them. I&amp;rsquo;ve left higher resolution files &lt;a href=&#34;https://mega.nz/folder/2ngygZgA#X-waMdcwdM10r8YcVXLu3Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;drone-shots&#34;&gt;Drone shots&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;ll show these first to grab your attention.&lt;/p&gt;
 &lt;p&gt;So we were walking along the beach at Palm Cove and I saw that the tide was pretty low that afternoon. It was so low that I could see land between the two islands in the ocean, Double Island and Haycock Island.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/double-island-haycock-reef.jpg&#34; alt=&#34;A picture of Double Island and Haycock Island, with Haycock Reef just barely visible&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/double-island-haycock-reef.jpg&#34; alt=&#34;A picture of Double Island and Haycock Island, with Haycock Reef just barely visible&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/haycock-reef-google-earth.jpg&#34; alt=&#34;Screenshot from Google Earth showing Palm Cove and Double Island&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/haycock-reef-google-earth.jpg&#34; alt=&#34;Screenshot from Google Earth showing Palm Cove and Double Island&#34; width=&#34;700px&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;Google Earth screenshot for perspective&lt;/span&gt;
 &lt;p&gt;I was curious what that looked like from above and if it was now possible to walk from one of the islands to the other. Google Earth didn&amp;rsquo;t have imagery taken during low tide, so I hurried back home and picked up my drone so I could find out myself.&lt;/p&gt;
 &lt;p&gt;I flew it from the beach towards the island until we could just barely see the drone, then I took some photos, videos, and a panorama.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/haycock-reef.jpg&#34; alt=&#34;A picture of Double Island, Haycock Island, and Haycock Reef from a drone perspective&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/haycock-reef.jpg&#34; alt=&#34;A picture of Double Island, Haycock Island, and Haycock Reef from a drone perspective&#34; width=&#34;800px&#34;/&gt;
 &lt;p&gt;It seemed like the two islands were still separate, but it was damn cool to see that through my own pictures.&lt;/p&gt;
 &lt;iframe class=&#34;pannellum&#34; allowfullscreen style=&#34;border-style:none; display:block;&#34; src=&#34;https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://mat383.com/images/cairns-holiday-photos/palm-cove-panorama.jpg&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;I probably could&amp;rsquo;ve gotten closer to the islands if I took off from further down the beach, near the jetty.&lt;/p&gt;
 &lt;p&gt;Below is a screenshot of the flight log, the flight path is in blue and I think the green circle is the distance limit that&amp;rsquo;s hard-coded into the drone. I didn&amp;rsquo;t end up going that far from land actually.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/palm-cove-flight-path.png&#34; alt=&#34;A screenshot showing the flight path of a drone flight in Palm Cove&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/palm-cove-flight-path.png&#34; alt=&#34;A screenshot showing the flight path of a drone flight in Palm Cove&#34; width=&#34;800px&#34;/&gt;
 &lt;h1 id=&#34;green-stuff-on-the-rocks-at-the-beach&#34;&gt;Green stuff on the rocks at the beach&lt;/h1&gt;
 &lt;p&gt;When we were up at Port Douglas, the family stopped at a playground as they were fatigued from all our wandering around town. I, however, had no need for rest. I wanted to occupy myself, but I was too mature for the playground there; I am a very serious and grown-up adult now.&lt;/p&gt;
 &lt;p&gt;In the distance, I saw a bunch of green rocks on the beach.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-1.jpg&#34; alt=&#34;Rocks covered with seaweed on the beach&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/seaweed-on-rocks-1.jpg&#34; alt=&#34;Rocks covered with seaweed on the beach&#34; width=&#34;800px&#34;/&gt;
 &lt;p&gt;&amp;ldquo;Now that doesn&amp;rsquo;t make any sense&amp;rdquo;, I thought. That looks like moss, but moss normally grows in moist and shady places, not on sunny shores.&lt;/p&gt;
 &lt;p&gt;As I cautiously approached the weird moss, I realised that it wasn&amp;rsquo;t actually moss &lt;em&gt;(gasp)&lt;/em&gt;.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-2.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/seaweed-on-rocks-2.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;700px&#34;/&gt;
 &lt;p&gt;It was actually seaweed!&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-3.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;600px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/seaweed-on-rocks-3.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;600px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-4.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;600px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/seaweed-on-rocks-4.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;600px&#34;/&gt;
 &lt;p&gt;Well of course it was seaweed, I was on a beach. I don&amp;rsquo;t know why that surprised me&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s another picture.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-5.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/seaweed-on-rocks-5.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; width=&#34;800px&#34;/&gt;
 &lt;h1 id=&#34;woah-clouds-look-like-that-now&#34;&gt;Woah clouds look like that now&lt;/h1&gt;
 &lt;p&gt;My sister wanted to go out for an early morning walk with me once, at 6am or something like that. Her goal was to see the sunrise from the beach.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t normally get out of bed that early, let alone step foot outside the house, but I said sure. Just this once, since we&amp;rsquo;ve come all the way to Cairns.&lt;/p&gt;
 &lt;p&gt;As soon as we got to Palm Cove Beach, I noticed that the horizon looked strange.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-2.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-2.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-1.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-1.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
 &lt;p&gt;It was as if the distant mountains that we saw during the day extended to cover the entire horizon.&lt;/p&gt;
 &lt;p&gt;I blinked twice, then realised those were actually just low clouds in front of the soon-to-rise sun. Because I never go for walks this early on the beach, this was the first time I&amp;rsquo;ve ever seen something like this. It was beautiful.&lt;/p&gt;
-&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/cairns-holiday-photos/clouds-sunrise.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;http://localhost:38383/videos/cairns-holiday-photos/clouds-sunrise.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
 &lt;p&gt;For a brief few minutes, there was also a small hole in the clouds right in front of the rising sun. It looked like a magic door thing.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-4.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-4.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-5.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-5.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;700px&#34;/&gt;
 &lt;p&gt;We both sat down next to the jetty and waited for the sun to rise. It didn&amp;rsquo;t take long, but I enjoyed the little time we spent waiting. Sitting there in front of the waves on a chilly and bright morning had very peaceful vibes.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-6.jpg&#34; alt=&#34;A sunrise on the beach&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-6.jpg&#34; alt=&#34;A sunrise on the beach&#34; width=&#34;700px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-7.jpg&#34; alt=&#34;A sunrise on the beach&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-7.jpg&#34; alt=&#34;A sunrise on the beach&#34; width=&#34;700px&#34;/&gt;
 &lt;p&gt;After the sunrise, the clouds that detailed the horizon faded away and only the mountains remained. I&amp;rsquo;m super glad to have experienced that view. Thanks, sis.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-8.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/clouds-8.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; width=&#34;800px&#34;/&gt;
 &lt;h1 id=&#34;bird-world&#34;&gt;Bird world&lt;/h1&gt;
 &lt;p&gt;There was a bird world at Kuranda called Birdworld Kuranda and we went there.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t have much to say about this one, but it was very cool. I&amp;rsquo;ve been to a few of these bird sanctuary places before and this one was definitely up there.&lt;/p&gt;
 &lt;p&gt;I think the same company that runs this attraction also owns the butterfly sanctuary next-door. That&amp;rsquo;s also a very cool place. I&amp;rsquo;d say both of them are worth a visit.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld.jpg&#34; alt=&#34;Scenic view of Kuranda Birdworld&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/birdworld.jpg&#34; alt=&#34;Scenic view of Kuranda Birdworld&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-birds-1.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/birdworld-birds-1.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; width=&#34;700px&#34;/&gt;
 &lt;p&gt;If you were to go here, I&amp;rsquo;d highly recommend you buy a bag of bird feed for $3 from the counter. Before we did, the birds didn&amp;rsquo;t care about our presence &lt;strong&gt;at all&lt;/strong&gt;. The Birdworld Kuranda experience is completely different if they notice you have food. They&amp;rsquo;ll be all over you.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-green-bird.jpg&#34; alt=&#34;A green parrot (I think)&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/birdworld-green-bird.jpg&#34; alt=&#34;A green parrot (I think)&#34; width=&#34;700px&#34;/&gt;
 &lt;p&gt;There was also this lone turtle in the water below.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-turtle.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; width=&#34;700px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/birdworld-turtle.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; width=&#34;700px&#34;/&gt;
 &lt;br&gt;
-&lt;video src=&#34;https://mat383.com/videos/cairns-holiday-photos/birdworld-turtle.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;
+&lt;video src=&#34;http://localhost:38383/videos/cairns-holiday-photos/birdworld-turtle.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;
 &lt;p&gt;I felt kind of bad for them. They were the slowest animal in the whole sanctuary and probably the only one that couldn&amp;rsquo;t fly ;(&lt;/p&gt;
 &lt;h1 id=&#34;assorted-pics&#34;&gt;Assorted pics&lt;/h1&gt;
 &lt;p&gt;I don&amp;rsquo;t have any cool stories for the rest of these images, but I found them neat.&lt;/p&gt;
 &lt;h2 id=&#34;beaches&#34;&gt;Beaches&lt;/h2&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-3.jpg&#34; alt=&#34;A flat beach with puddles of water&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/beach-3.jpg&#34; alt=&#34;A flat beach with puddles of water&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-4.jpg&#34; alt=&#34;A beach with marks in the sand&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/beach-4.jpg&#34; alt=&#34;A beach with marks in the sand&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-5.jpg&#34; alt=&#34;A low shot of a beach with marks in the sand&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/beach-5.jpg&#34; alt=&#34;A low shot of a beach with marks in the sand&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-6.jpg&#34; alt=&#34;A low shot of water on the beach&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/beach-6.jpg&#34; alt=&#34;A low shot of water on the beach&#34; width=&#34;800px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-7.jpg&#34; alt=&#34;A low shot of a log on the beach&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/beach-7.jpg&#34; alt=&#34;A low shot of a log on the beach&#34; width=&#34;800px&#34;/&gt;
 &lt;h2 id=&#34;greenery&#34;&gt;Greenery&lt;/h2&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/greenery-1.jpg&#34; alt=&#34;A picture of a path in a forest&#34; width=&#34;600px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/greenery-1.jpg&#34; alt=&#34;A picture of a path in a forest&#34; width=&#34;600px&#34;/&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/greenery-2.jpg&#34; alt=&#34;A picture of a path in a forest&#34; width=&#34;800px&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/cairns-holiday-photos/greenery-2.jpg&#34; alt=&#34;A picture of a path in a forest&#34; width=&#34;800px&#34;/&gt;
 &lt;p&gt;Crikey this post is long. I&amp;rsquo;ll end it here, but there&amp;rsquo;s more pictures &lt;a href=&#34;https://mega.nz/folder/2ngygZgA#X-waMdcwdM10r8YcVXLu3Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; if you liked the ones above.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>Building this website</title>
-		<link>https://mat383.com/blog/building-this-website/</link>
+		<link>http://localhost:38383/blog/building-this-website/</link>
 		<pubDate>Sat, 03 Aug 2024 04:23:38 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/building-this-website/</guid>
+		<guid>http://localhost:38383/blog/building-this-website/</guid>
 		<description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;TLDR:&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;I wanted to get into game development and have a website with a shiny custom domain to blog on. I built it with Hugo and it&amp;rsquo;s being hosted on Cloudflare Pages with a Cloudflare domain.&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;the-why&#34;&gt;The why&lt;/h1&gt;
 &lt;p&gt;So just like the next guy, I&amp;rsquo;ve always had an interest in creating games, programming, and making cool stuff. I just never had the motivation or patience to learn to do those things to a standard that I could be proud of.&lt;/p&gt;
@@ -117,43 +117,43 @@
 &lt;p&gt;So I&amp;rsquo;ll go get some!&lt;/p&gt;
 &lt;br&gt;
 &lt;p&gt;Everyone in the indie game dev community says it&amp;rsquo;s a common mistake for newbies to make their big dream game the first project they work on. They also say you should have an online presence &lt;em&gt;while&lt;/em&gt; making your games, otherwise you&amp;rsquo;ll be swallowed by the sea of everyone else&amp;rsquo;s indie games. Those both sounded like valid bits of advice so I thought I should spin up a website, start making small games, and document their development online.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Why a website though? Can&amp;rsquo;t you just make a YouTube channel like everyone else does?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Why a website though? Can&amp;rsquo;t you just make a YouTube channel like everyone else does?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Because I&amp;rsquo;ve gotten tired of editing videos. I also didn&amp;rsquo;t find much interest in other people&amp;rsquo;s dev logs on the platform at the time. Writing text-form posts on a website also sounded like a way more convenient way of sharing updates. However, I admit that it would be nigh impossible to get new eyeballs on me without a presence on YouTube, so I will make some posts into videos when I get a good editing workflow going.&lt;/p&gt;
 &lt;h1 id=&#34;early-attempts-bad&#34;&gt;Early attempts (bad)&lt;/h1&gt;
 &lt;p&gt;I started building the website when my ambition greatly outweighed my rusty HTML/CSS skills, Like, massively.&lt;/p&gt;
 &lt;p&gt;I whipped up this concept in Photoshop. The idea was that the entire website would be themed to resemble the profile picture I use everywhere. Heaps of slow-moving PNGs of soft green circles would make up the background and everything would have graceful animations. It was a neat idea, but if you&amp;rsquo;re familiar with the concept of colour banding and why it ruins gradients, you&amp;rsquo;d know why this would&amp;rsquo;ve been horrible in practice.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/old-mat383-website-concept.jpg&#34; alt=&#34;A very old concept of mat383.com&#34; width=&#34;550&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/old-mat383-website-concept.jpg&#34; alt=&#34;A very old concept of mat383.com&#34; width=&#34;550&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;graphic design is my passion&lt;/span&gt;
 &lt;p&gt;Then I tried to make that website myself. I never built an entire website before though so I jumped head first into writing static HTML by hand, giving zero thought to how the blog will actually blog.&lt;/p&gt;
 &lt;p&gt;Yeah don&amp;rsquo;t do that.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/old-mat383-website-prototype.png&#34; alt=&#34;A very old prototype of mat383.com&#34; width=&#34;750&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/old-mat383-website-prototype.png&#34; alt=&#34;A very old prototype of mat383.com&#34; width=&#34;750&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;Well, there&#39;s some resemblance&lt;/span&gt;
 &lt;p&gt;I even tried making that cool animated background I was talking about. I didn&amp;rsquo;t know any Javascript at the time though so I called upon ChatGPT to do it all for me. We really tried, there was a lot of back and forth. The furthest we got is spreading a bunch of PNGs across the screen.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/old-mat383-website-bg-prototype.jpg&#34; alt=&#34;An old work-in-progress background for mat383.com&#34; width=&#34;750&#34;/&gt;
-&lt;p&gt;You can download these scuffed prototypes &lt;a href=&#34;https://mat383.com/files/mat383.com-prototypes.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&#34;http://localhost:38383/images/old-mat383-website-bg-prototype.jpg&#34; alt=&#34;An old work-in-progress background for mat383.com&#34; width=&#34;750&#34;/&gt;
+&lt;p&gt;You can download these scuffed prototypes &lt;a href=&#34;http://localhost:38383/files/mat383.com-prototypes.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I came to my senses after all that and stopped trying to make the website like this. I think I dropped the project for about half a year after that.&lt;/p&gt;
 &lt;h1 id=&#34;whats-a-web-framework&#34;&gt;What&amp;rsquo;s a web framework??&lt;/h1&gt;
 &lt;p&gt;A while later, I started over from scratch. This time, I&amp;rsquo;d make the website&amp;rsquo;s backend before the front-end. I did some research on how I could make a blog with Python, the language I was the least inexperienced with. Django seemed like a pretty popular pick, so I looked up some tutorials on how I could do that.&lt;/p&gt;
 &lt;p&gt;I went through several tutorials but they were all so fast that I didn&amp;rsquo;t understand what the code I was copying did.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/old-mat383-website-prototype-2.png&#34; alt=&#34;An old prototype of mat383.com&#34; width=&#34;650&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/old-mat383-website-prototype-2.png&#34; alt=&#34;An old prototype of mat383.com&#34; width=&#34;650&#34;/&gt;
 &lt;p&gt;I&amp;rsquo;m not giving download links for these, I&amp;rsquo;m pretty sure I put my personal password in one of their databases.&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;I gave up again for a while, then I stumbled upon &lt;a href=&#34;https://landchad.net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;landchad.net&lt;/a&gt;, a website that has a simple tutorial on how to set up a very basic web server. I decided to follow it and bought the domain &lt;a href=&#34;https://mat383.com/&#34;&gt;mat383.com&lt;/a&gt; from Cloudflare and rented a VPS from Vultr. I bought the domain from Cloudflare because I was convinced they had the cheapest prices and least amount of upselling BS (it was honestly impressive after browsing the sites of other domain name registrars). I chose Vultr for my hosting because that&amp;rsquo;s what the website recommended, but I&amp;rsquo;d advise against using them now (their support is bad, but more on that later).&lt;/p&gt;
+&lt;p&gt;I gave up again for a while, then I stumbled upon &lt;a href=&#34;https://landchad.net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;landchad.net&lt;/a&gt;, a website that has a simple tutorial on how to set up a very basic web server. I decided to follow it and bought the domain &lt;a href=&#34;http://localhost:38383/&#34;&gt;mat383.com&lt;/a&gt; from Cloudflare and rented a VPS from Vultr. I bought the domain from Cloudflare because I was convinced they had the cheapest prices and least amount of upselling BS (it was honestly impressive after browsing the sites of other domain name registrars). I chose Vultr for my hosting because that&amp;rsquo;s what the website recommended, but I&amp;rsquo;d advise against using them now (their support is bad, but more on that later).&lt;/p&gt;
 &lt;p&gt;After doing their tutorial, I had my very own website!&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/barebones-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;500&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/barebones-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;500&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;It IS a website...&lt;/span&gt;
 &lt;p&gt;It was only three lines of text, but I had a web server running with a domain. That was cool.&lt;/p&gt;
 &lt;p&gt;I wanted to try using Django again, but properly. &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlM3i4cwc8zBRQOGXuLrCLNfpVOuVLuwZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;This course&lt;/a&gt; on YouTube was very thorough, way more thorough than the other tutorials I did in the past, but I also had a lot of issues with it. Sometimes they would skip over small details or my configuration would be different to theirs so I spent way more time troubleshooting than following their instructions. It took me almost a month to complete the roughly hour-long course, as I got tired from troubleshooting and took breaks.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/simple-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;600&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/simple-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;600&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;Not much changed&lt;/span&gt;
 &lt;p&gt;Then I remembered that course was only for setting up the production workflow of a Django website, I still had to make the website after all that!&lt;/p&gt;
 &lt;h1 id=&#34;enter-hugo&#34;&gt;Enter Hugo&lt;/h1&gt;
 &lt;p&gt;Just as I was about to embark on a quest to finally learn Django again, I learnt about the existence of &lt;em style=&#34;font-family:serif; font-weight: bold;&#34;&gt;static site generators&lt;/em&gt;. They are tools that let you build entire static websites using a bunch of well-formatted templates and content files. Since they&amp;rsquo;re static and lightweight, some places like Github and Cloudflare will even let you host them for free! The lack of a backend makes static websites much faster than typical dynamic websites, but they also can&amp;rsquo;t have any server-side logic.&lt;/p&gt;
 &lt;p&gt;I chose Hugo as my static site generator as I&amp;rsquo;ve heard of it before and it didn&amp;rsquo;t seem to hard to learn. Setting it up was much simpler than all the stuff I did with Django. I watched &lt;a href=&#34;https://www.youtube.com/watch?v=ZFL09qhKi5I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;this YouTube video&lt;/a&gt; that explained the basics of Hugo and provided &lt;a href=&#34;https://github.com/LukeSmithxyz/lugo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;a basic theme&lt;/a&gt; for me to use. I modified the theme, some of the templates, and the CSS until I was happy how it functioned and looked.&lt;/p&gt;
-&lt;img src=&#34;https://mat383.com/images/recent-ish-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo&#34; width=&#34;700&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/recent-ish-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo&#34; width=&#34;700&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;An earlier version of this site built with Hugo&lt;/span&gt;
 &lt;br&gt;
-&lt;img src=&#34;https://mat383.com/images/almost-done-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo, almost finished&#34; width=&#34;700&#34;/&gt;
+&lt;img src=&#34;http://localhost:38383/images/almost-done-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo, almost finished&#34; width=&#34;700&#34;/&gt;
 &lt;span class=&#34;figcaption&#34;&gt;The home page at the time of writing&lt;/span&gt;
 &lt;p&gt;It&amp;rsquo;s not completely finished yet, but I&amp;rsquo;m quite happy with this website.&lt;/p&gt;
 &lt;p&gt;I also moved my website off Vultr and onto Cloudflare Pages. I won&amp;rsquo;t have to worry about forgetting to pay for hosting there because it&amp;rsquo;s free.&lt;/p&gt;
