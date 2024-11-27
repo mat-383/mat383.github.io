@@ -55,7 +55,7 @@
 <body>
 
 <main>
-
+<div class="contentbg">
 
 
 	<header>
@@ -137,73 +137,74 @@
 	<h2>Guestbook</h2>
 	<p>Once you've had a look around, feel free to leave a comment in my guestbook:</p>
 
+
+
+	<div id="commentSection">
+		<button id="loadComments" class="loadcommentsbutton">
+			<p>Load Guestbook</p>
+			<div class="loadcommentsicons">
+				
+					<img class="loadcommentsicon1" src="/icons/guestbook.svg">
+					<img class="loadcommentsicon2" src="/icons/guestbook-green.svg">
+				
+			</div>
+		</button>
+	</div>
+	<script>
+		
+		var remark_config = {
+			host: 'https://remark42.mat383.com',
+			site_id: 'remark',
+			theme: 'dark',
+			show_email_subscription: false,
+			show_rss_subscription: true,
+		};
+		
+		function loadRemark42() {
+			if (window.location.protocol !== 'https:') {
+				document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+				return;
+			}
+			
+			var components = remark_config.components || ["embed"];
+			var head = document.head || document.body;
+			
+			for (var i = 0; i < components.length; i++) {
+				var script = document.createElement("script");
+				var extension = ".js";
+				
+				
+				if ("noModule" in script) {
+					script.type = "module";
+					extension = ".mjs";
+				}
+				
+				script.async = true;
+				script.defer = true;
+				script.src = remark_config.host + "/web/" + components[i] + extension;
+				head.appendChild(script);
+
+				
+				setTimeout(function() { 
+					var loadCommentsButton = document.getElementById('loadComments');
+					loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+				}, 200);
+				
+				
+			}
+		}
+		
+		document.getElementById('loadComments').addEventListener('click', function() {
+			loadRemark42();
+		});
+	</script>
+
+	
+	<div id="remark42" class="remark42"></div>
+
 </main>
 
 <footer>
-	
-	
-		<div id="commentSection">
-			<button id="loadComments" class="loadcommentsbutton">
-				<p>Load Guestbook</p>
-				<div class="loadcommentsicons">
-					
-						<img class="loadcommentsicon1" src="/icons/guestbook.svg">
-						<img class="loadcommentsicon2" src="/icons/guestbook-green.svg">
-					
-				</div>
-			</button>
-		</div>
-		<script>
-			
-			var remark_config = {
-				host: 'https://remark42.mat383.com',
-				site_id: 'remark',
-				theme: 'dark',
-				show_email_subscription: false,
-				show_rss_subscription: true,
-			};
-			
-			function loadRemark42() {
-				if (window.location.protocol !== 'https:') {
-					document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
-					return;
-				}
-				
-				var components = remark_config.components || ["embed"];
-				var head = document.head || document.body;
-				
-				for (var i = 0; i < components.length; i++) {
-					var script = document.createElement("script");
-					var extension = ".js";
-					
-					
-					if ("noModule" in script) {
-						script.type = "module";
-						extension = ".mjs";
-					}
-					
-					script.async = true;
-					script.defer = true;
-					script.src = remark_config.host + "/web/" + components[i] + extension;
-					head.appendChild(script);
-
-					
-					setTimeout(function() { 
-						var loadCommentsButton = document.getElementById('loadComments');
-						loadCommentsButton.parentNode.removeChild(loadCommentsButton);
-					}, 200);
-					
-					
-				}
-			}
-			
-			document.getElementById('loadComments').addEventListener('click', function() {
-				loadRemark42();
-			});
-		</script>
-
-		
-		<div id="remark42" class="remark42"></div>
 	
 	<br>
 	<br>
@@ -220,6 +221,7 @@
 	</div>
 </footer>
 
+</div>
 </body>
 </html>
 
