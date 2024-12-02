@@ -1,56 +1,136 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en" style="background-color: #121212; color: #ccc;">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=38383&amp;path=livereload" data-no-instant defer></script>
 	<title>Test Project - mat383.com</title>
-	<link rel="canonical" href="https://mat383.com/">
+	<link rel="canonical" href="http://localhost:38383/">
 	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<meta name="description" content="THIS PAGE IS REAL">
+	<meta name="description" content="THIS PAGE IS REAL (sike)">
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="robots" content="index, follow">
 	<meta name="darkreader-lock">
 	<meta charset="utf-8">
+
+	<link rel="me" href="https://github.com/mat-383"/>
 </head>
+<div class="balls-bg"></div>
+
 <nav class="navbar">
 	<div class="navbarcontent">
-		<a href="/" class="homelink">mat383.com</a>
+		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">mat383.com</a>
 		<div class="otherlinks"> 
-			<a href="/blog" class="">Blog</a>
-			<a href="/projects" class="activepage">Projects</a>
-			<a href="/contact" class="">Contact</a>
+			<a href="/blog" style="color:#ccc" class="">Blog</a>
+			<a href="/projects" style="color:#ccc" class="activepage">Projects</a>
+			<a href="/contact" style="color:#ccc" class="">Contact</a>
 		</div>
 	</div>
 </nav>
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
 <body>
 
 <main>
-<header>
-	<br><h1 id="tag_Test Project" class="pagetitle">Test Project</h1>
-	<p class="pagesummary">THIS PAGE IS REAL</p>
-</header>
+
+<div class="contentbg">
+
+	<header>
+		<br><h1 id="tag_Test Project" class="pagetitle">Test Project</h1>
+		<p class="pagesummary">THIS PAGE IS REAL (sike)</p>
+		<p class="datewritten classicdatewritten"><time>Date written: 26 Jul. 2024</time></p>
+	</header>
 
 
 
-<p>THIS PAGE IS REAL</p>
+
+
+<p>THIS PAGE IS REAL (sike)</p>
 
 
 
+
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
+		}
+		
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
+
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+			
+			
+		}
+	}
+	
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+</script>
 </main>
 
 <footer>
 	
-	
-		
-	
 	<br>
 	<br>
-	<p class="footerhover">Made with <a href="https://gohugo.io/">Hugo</a> | <a href="https://github.com/mat-383/blog">Source code</a></p><a href="/index.xml" class="footerhover"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for new blog posts!"></a>
+
+	<p class="footerhover">Made with <a href="https://gohugo.io/">Hugo</a> | <a href="https://github.com/mat-383/blog">Source code</a></p><a href="/index.xml"><img src="/rss.svg" class="sizeanimation" style="height:1.5em; width: 1.5em;" alt="RSS Feed" title="Subscribe via RSS for new blog posts!"></a>
 	<br>
-	<a href="http://wiby.me/" class="footerhover"><img src="/images/wiby.gif" alt="Wiby, the classic search engine"></a>
+
+	<div class="footerbadges">
+		<a href="https://mat383.com/fanclub" class="sizeanimation"><img src="/images/fanclub.gif" alt="Mat383 Fanclub!!" class="badgesize1"></a>
+		<a href="https://512kb.club/" class="sizeanimation"><img src="/images/green-team.gif" alt="The 512KB Club" class="badgesize1"></a>
+		<a href="http://wiby.me/" class="sizeanimation"><img src="/images/wiby.gif" alt="Wiby, the classic search engine" class="badgesize1"></a>
+		<br>
+		<a href="http://250kb.club/" class="sizeanimation"><img src="/images/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
+	</div>
 </footer>
 
+
+
+</div>
 </body>
 </html>
 

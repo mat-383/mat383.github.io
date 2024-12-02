@@ -37,61 +37,97 @@
 	<div class="particle"></div>
 	<div class="particle"></div>
 	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
 </div>
 <body>
 
 <main>
-<div class="contentbg">
 
+<div class="contentbg">
 
  
 	<h2>Showing all posts tagged with <b class="tag tagoutside">Outside</b>:</h2>
-
-
-
-
-
-
-
-
-
-
-
-		<a href="/blog/cairns-holiday-pics/" class="postpreviewlink postpreviewtime">
-			<div class="postpreview activateposttitleunderline">
-				<div style="display: grid;grid-template-columns: auto auto 1fr;" class=" activateposttitleunderline"><time datetime="2024-08-21T05:54:00&#43;10:00">2024 Aug 21</time><div class="postpreviewtags">
-						<a class="tag
+	
+	<a href="/blog/cairns-holiday-pics/" class="postpreviewlink postpreviewtime">
+		<div class="postpreview activateposttitleunderline">
+			<div style="display: grid;grid-template-columns: auto auto 1fr;" class=" activateposttitleunderline"><time datetime="2024-08-21T05:54:00&#43;10:00">2024 Aug 21</time><div class="postpreviewtags">
+					<a class="tag
         tagoutside" style="display:inline-block;"id="tag_outside" href="https://mat383.com/tags/outside">Outside</a></div>
-					<a href="/blog/cairns-holiday-pics/" class="postpreviewlink">
-				</div>
-					
-
-				<div class="postpreviewtitle">
-					Holiday Pictures from Cairns
-				</div>
-
-				
-					<div class="postpreviewsummary">I took heaps of landscape pics while I was there. Here, take some!</div>
+				<a href="/blog/cairns-holiday-pics/" class="postpreviewlink">
+			</div>
 				
 
-				</div>
-		</a>
+			<div class="postpreviewtitle">
+				Holiday Pictures from Cairns
+			</div>
+
+			
+				<div class="postpreviewsummary">I took heaps of landscape pics while I was there. Here, take some!</div>
+			
+
+			</div>
+	</a>
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
+		}
+		
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
+
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+			
+			
+		}
+	}
+	
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+</script>
 </main>
 
 <footer>
@@ -110,6 +146,8 @@
 		<a href="http://250kb.club/" class="sizeanimation"><img src="/images/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
 	</div>
 </footer>
+
+
 
 </div>
 </body>

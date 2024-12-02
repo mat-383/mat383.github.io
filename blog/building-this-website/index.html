@@ -38,24 +38,12 @@
 	<div class="particle"></div>
 	<div class="particle"></div>
 	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
 </div>
 <body>
 
 <main>
-<div class="contentbg">
 
+<div class="contentbg">
 
 	<header>
 		<div class="posttags"><p>Tags: <a class="tag
@@ -127,69 +115,66 @@
 
 
 
+	
 	<div id="commentSection">
-		<button id="loadComments" class="loadcommentsbutton">
-			<p>Load Comments</p>
-			<div class="loadcommentsicons">
-				
-					<img class="loadcommentsicon1" src="/icons/comments.svg" alt="Comments icon" style="height:36px; width: 40px;">
-					<img class="loadcommentsicon2" src="/icons/comments-green.svg" alt="Comments icon" style="height:36px; width: 40px;">
-				
-			</div>
-		</button>
-	</div>
-	<script>
-		
-		var remark_config = {
-			host: 'https://remark42.mat383.com',
-			site_id: 'remark',
-			theme: 'dark',
-			show_email_subscription: false,
-			show_rss_subscription: true,
-		};
-		
-		function loadRemark42() {
-			if (window.location.protocol !== 'https:') {
-				document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
-				return;
-			}
-			
-			var components = remark_config.components || ["embed"];
-			var head = document.head || document.body;
-			
-			for (var i = 0; i < components.length; i++) {
-				var script = document.createElement("script");
-				var extension = ".js";
-				
-				
-				if ("noModule" in script) {
-					script.type = "module";
-					extension = ".mjs";
-				}
-				
-				script.async = true;
-				script.defer = true;
-				script.src = remark_config.host + "/web/" + components[i] + extension;
-				head.appendChild(script);
+    <button id="loadComments" class="loadcommentsbutton">
+        <p>Load Comments</p>
+        <img class="loadcommentsicon" src="/icons/comments-green.svg" alt="Guestbook icon" style="height:36px; width: 40px;">
+    </button>
+</div>
 
-				
-				setTimeout(function() { 
-					var loadCommentsButton = document.getElementById('loadComments');
-					loadCommentsButton.parentNode.removeChild(loadCommentsButton);
-				}, 200);
-				
-				
-			}
+
+<div id="remark42" class="remark42"></div>
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
 		}
 		
-		document.getElementById('loadComments').addEventListener('click', function() {
-			loadRemark42();
-		});
-	</script>
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
 
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+			
+			
+		}
+	}
 	
-	<div id="remark42" class="remark42"></div>
-
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+</script>
 </main>
 
 <footer>
@@ -208,6 +193,8 @@
 		<a href="http://250kb.club/" class="sizeanimation"><img src="/images/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
 	</div>
 </footer>
+
+
 
 </div>
 </body>
