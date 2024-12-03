@@ -4,7 +4,7 @@
 	<title>Website - mat383.com</title>
 	<link rel="canonical" href="https://mat383.com/">
 	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href='/styles.css'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<meta name="description" content="">
 	
@@ -42,32 +42,37 @@
 
 <main>
 
-<div class="contentbg float-in">
+
+<div class="contentmargin float-in">
 
  
-	<h2>Showing all posts tagged with <b class="tag tagwebsite">Website</b>:</h2>
-	
-	<a href="/blog/building-this-website/" class="postpreviewlink postpreviewtime">
-		<div class="postpreview activateposttitleunderline">
-			<div style="display: grid;grid-template-columns: auto auto 1fr;" class=" activateposttitleunderline"><time datetime="2024-08-03T04:23:38&#43;10:00">2024 Aug 03</time><div class="postpreviewtags">
-					<a class="tag
+	<h2 style="margin-bottom:50px">Showing all posts tagged with <b class="tag tagwebsite">Website</b>:</h2>
+	<div class="posts">
+		<a href="/blog/building-this-website/" class="postpreviewlink">
+			<div class="postpreview">
+				
+				<div class="postpreviewtext">
+					<div class="postpreviewtimetags">
+						<div class="postpreviewtime"><time datetime="2024-08-03T04:23:38&#43;10:00">2024 Aug 03</time></div>
+						<div class="postpreviewtags">
+							<p class="tag
         
         tagwebsite
-    " style="display:inline-block;"id="tag_website" href="https://mat383.com/tags/website">Website</a></div>
-				<a href="/blog/building-this-website/" class="postpreviewlink">
+    " style="display:inline-block;"id="tag_website" href="https://mat383.com/tags/website">Website</p></div>
+					</div>
+					
+					<div class="postpreviewtitle">
+						Building this website
+					</div>
+					
+						<div class="postpreviewsummary">
+							Let me tell you why I made it and what tools I used.
+						</div>
+					
+				</div>
 			</div>
-				
-
-			<div class="postpreviewtitle">
-				Building this website
-			</div>
-
-			
-				<div class="postpreviewsummary">Let me tell you why I made it and what tools I used.</div>
-			
-
-			</div>
-	</a>
+		</a>
+</div>
 
 
 
@@ -121,8 +126,6 @@
 				var loadCommentsButton = document.getElementById('loadComments');
 				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
 			}, 200);
-			
-			
 		}
 	}
 	

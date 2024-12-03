@@ -5,7 +5,7 @@
 	<title>mat383.com</title>
 	<link rel="canonical" href="https://mat383.com/">
 	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
-	<link rel='stylesheet' type='text/css' href='/styles.css'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
 	<meta name="description" content="The personal website of Mat383.">
 	
@@ -44,7 +44,8 @@
 
 <main>
 
-	<header>
+
+	<header class="headernocoverimg">
 		
 		
 		
@@ -100,50 +101,70 @@
 <p>Just kidding, I'm <i>also</i> an amateur programmer who's interested in making games and other cool things on screens. I started this website to document and share my journey.</p>
 <p>I&rsquo;ll write more about myself in this page when I&rsquo;ve gotten used to this whole personal website thing. It&rsquo;s still in development, so keep watching this space.</p>
 <p><strong>Currently redesigning this site, don&rsquo;t be surprised if something looks weird!</strong></p>
-<hr>
+</div>
+<div class="float-in homecontent contentmargin">
 <h2 id="read-my-recent-posts-">Read my recent posts! ↓</h2>
-
-	<a href="/blog/cairns-holiday-pics/" class="postpreviewlink postpreviewtime">
-		<div class="postpreview activateposttitleunderline">
-			<div style="display: grid;grid-template-columns: auto auto 1fr;" class=" activateposttitleunderline"><time datetime="2024-08-21T05:54:00&#43;10:00">2024 Aug 21</time><div class="postpreviewtags">
-					<a class="tag
-        tagoutside" style="display:inline-block;"id="tag_outside" href="https://mat383.com/tags/outside">Outside</a></div>
-				<a href="/blog/cairns-holiday-pics/" class="postpreviewlink">
-			</div>
+<div class="posts">
+	
+		<a href="/blog/cairns-holiday-pics/" class="postpreviewlink">
+			<div class="postpreview">
 				
-
-			<div class="postpreviewtitle">
-				Holiday Pictures from Cairns
+					<div class="postpreviewcoverimg">
+					<div class="postpreviewcoverimg2">
+						<picture>
+							<source srcset="/images/thumbnails/cairns-holiday-pics.avif" type="image/avif">
+							<img src="/images/thumbnails/cairns-holiday-pics.jpg" width="400" height="200">
+						</picture>
+					</div>
+					</div>
+				
+				<div class="postpreviewtext">
+					<div class="postpreviewtimetags">
+						<div class="postpreviewtime"><time datetime="2024-08-21T05:54:00&#43;10:00">2024 Aug 21</time></div>
+						<div class="postpreviewtags">
+							<p class="tag
+        tagoutside" style="display:inline-block;"id="tag_outside" href="https://mat383.com/tags/outside">Outside</p></div>
+					</div>
+					
+					<div class="postpreviewtitle">
+						Holiday Pictures from Cairns
+					</div>
+					
+						<div class="postpreviewsummary">
+							I took heaps of landscape pics while I was there. Here, take some!
+						</div>
+					
+				</div>
 			</div>
-
-			
-				<div class="postpreviewsummary">I took heaps of landscape pics while I was there. Here, take some!</div>
-			
-
-			</div>
-	</a>
-	<a href="/blog/building-this-website/" class="postpreviewlink postpreviewtime">
-		<div class="postpreview activateposttitleunderline">
-			<div style="display: grid;grid-template-columns: auto auto 1fr;" class=" activateposttitleunderline"><time datetime="2024-08-03T04:23:38&#43;10:00">2024 Aug 03</time><div class="postpreviewtags">
-					<a class="tag
+		</a>
+		<a href="/blog/building-this-website/" class="postpreviewlink">
+			<div class="postpreview">
+				
+				<div class="postpreviewtext">
+					<div class="postpreviewtimetags">
+						<div class="postpreviewtime"><time datetime="2024-08-03T04:23:38&#43;10:00">2024 Aug 03</time></div>
+						<div class="postpreviewtags">
+							<p class="tag
         
         tagwebsite
-    " style="display:inline-block;"id="tag_website" href="https://mat383.com/tags/website">Website</a></div>
-				<a href="/blog/building-this-website/" class="postpreviewlink">
+    " style="display:inline-block;"id="tag_website" href="https://mat383.com/tags/website">Website</p></div>
+					</div>
+					
+					<div class="postpreviewtitle">
+						Building this website
+					</div>
+					
+						<div class="postpreviewsummary">
+							Let me tell you why I made it and what tools I used.
+						</div>
+					
+				</div>
 			</div>
-				
-
-			<div class="postpreviewtitle">
-				Building this website
-			</div>
-
-			
-				<div class="postpreviewsummary">Let me tell you why I made it and what tools I used.</div>
-			
-
-			</div>
-	</a>
-<hr>
+		</a>
+</div>
+</div>
+<br>
+<div class="homecontent contentbg float-in">
 <h2>Guestbook</h2>
 <p>Once you've had a look around, feel free to leave a comment in my guestbook:</p>
 <div id="commentSection">
@@ -208,8 +229,6 @@
 				var loadCommentsButton = document.getElementById('loadComments');
 				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
 			}, 200);
-			
-			
 		}
 	}
 	
