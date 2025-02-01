@@ -1,14 +1,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>mat383.com</title>
-	<link>https://mat383.com/</link>
-	<description>Blog posts from mat383.com</description>
+	<link>https://mat383.com/tags/game-dev/</link>
+	<description>Blog posts from in Game Dev mat383.com</description>
 	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 27 Jul 2024 14:20:48 +1000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Feb 2025 12:36:12 +0000</lastBuildDate>
     
-        <atom:link href="https://mat383.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://mat383.com/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>

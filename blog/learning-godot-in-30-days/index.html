@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #121212; color: #ccc;">
+<head>
+	<title>Learning Godot in 30 Days (Gone Wrong) - mat383.com</title>
+	<link rel="canonical" href="https://mat383.com/">
+	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<meta name="description" content="I technically made a game!">
+	
+	<meta name="keywords" content="game dev">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta name="darkreader-lock">
+	<meta charset="utf-8">
+
+	<link rel="me" href="https://github.com/mat-383"/>
+</head>
+<div class="balls-bg"></div>
+
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
+
+<nav class="navbar">
+	<div class="navbarcontent">
+		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
+			<style>.navbarm{fill:transparent}</style>
+			<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1348 1100" preserveAspectRatio="xMinYMin meet" style="width: 100%; height: 100%; max-height:65px; max-width:70px;"><path class="navbarm" d="m118 999l78-897h363l124 560 183-560h369l-23 897h-244l20-640-211 640h-241l-144-640-42 640z"/></svg>
+		</a>
+		<div class="otherlinks"> 
+			<a href="/blog" style="color:#ccc" class="activepage">Blog</a>
+			<a href="/now" style="color:#ccc" class="">Now</a>
+			<a href="/projects" style="color:#ccc" class="">Projects</a>
+			<a href="/contact" style="color:#ccc" class="">Contact</a>
+		</div>
+	</div>
+</nav>
+<body style="visibility: hidden;">
+<script>
+	
+	let domReady = (cb) => {
+		document.readyState === 'interactive' || document.readyState === 'complete'
+		? cb()
+		: document.addEventListener('DOMContentLoaded', cb);
+	};
+	
+	domReady(() => {
+		
+		document.body.style.visibility = 'visible';
+	});
+</script>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
+
+<main>
+
+
+<div class="contentbg float-in">
+
+	<header class="">
+		
+			<div class="coverimgcontainer">
+				<div class="coverimgcontainer2">
+					<div class="coverimg">
+						<picture>
+							<source srcset="/images/covers/learning-godot-in-30-days.avif" type="image/avif">
+							<img src="learning-godot-in-30-days.jpg" width="800" height="400">
+						</picture>
+					</div>
+				</div>
+			</div>
+		<div class="posttags"><p>Tags: <a class="tag
+        
+        
+        taggamedev
+    " style="display:inline-block;"id="tag_game dev" href="https://mat383.com/tags/game-dev">Game Dev</a></p></div><h1 id="tag_Learning Godot in 30 Days (gone wrong)" class="pagetitle">Learning Godot in 30 Days (gone wrong)</h1>
+		<p class="pagesummary">I technically made a game!</p>
+		<p class="datewritten "><time>Date written: 01 Feb. 2025</time></p>
+	</header>
+
+
+
+
+
+
+	<div id="ytbuttoncontainer">
+		<a class="ytbutton" href="https://www.youtube.com/watch?v=-yiM-IhRL6A">
+			<p>Watch on </p><img class="ytbuttonicon" src="/icons/youtubefull.svg" alt="YouTube icon" style="height:25px; width: 108px;">
+		</a>
+	</div>
+
+
+
+<h1 id="but-why">But why</h1>
+<p>As I&rsquo;ve said before, I have always wanted to make games but I never had the patience to learn how to by myself. Now that the semester is over and this website is (mostly) done, I have the perfect opportunity to sit down and do this.</p>
+<p>To fast-track this and make interesting content, I&rsquo;m challenging myself to learn a game engine, specifically <a href="https://godotengine.org/">Godot</a>, and make a decent game with it in a month. I don&rsquo;t normally give myself deadlines like this, but that&rsquo;s the reason I&rsquo;m still learning this stuff at the age of 21 :P</p>
+<h1 id="my-background-so-far">My background so far</h1>
+<p>To give you some context around my current skills, here are the games I&rsquo;ve made in the past.</p>
+<p>Well&hellip; the <em>presentable</em> ones.</p>
+<h2 id="super-pong">Super Pong</h2>
+<p>This was a group assignment for uni. It&rsquo;s a remake of pong (based off <a href="https://www.youtube.com/watch?v=AcpaYq0ihaM">this tutorial</a>) where you can move the paddle in any direction. I didn&rsquo;t write much code for this; my job was to make the art assets for it (the main menu is horrid), the particle effects, and the promotional poster. Most of the programming was done by my two other group members.</p>
+<p><a href="https://danielpayne.itch.io/super-pong">(itch.io link)</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/hO-UJKaijWg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="keep-away">Keep Away!</h2>
+<p>This was also an assignment, but a solo one. It&rsquo;s a short platformer where you have to run away from a ghost that you can slow down by looking at it. It was also based off a <a href="https://dev.epicgames.com/community/learning/courses/kna/hour-of-code-unreal-engine-build-your-first-3d-game/0b8a/hour-of-code-unreal-engine-create-your-first-3d-game">tutorial</a>. I wrote some code (mostly in blueprints), added some features like the ghost, music, and fall faster action, and redesigned the level. I&rsquo;m sort of proud of this one, but I know I could&rsquo;ve done better if I was more familiar with the engine and C++ programming.</p>
+<p><a href="https://mat383.itch.io/keep-away">(itch.io link)</a></p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Ca1IwRTYVj8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="stealthcraft">StealthCraft</h2>
+<p>Not really a game, but I&rsquo;m including it for old times&rsquo; sake. It was a minigame realm (server) for Minecraft Bedrock. It had a long history, opening in 2019 and closing in late 2023. A lot of people worked on it, including myself. I made a lot of things for that community and I learnt a lot of my content creation skills while being there to make better things.</p>
+<p>We shut it down because we got too ambitious and didn&rsquo;t have the motivation to finish things when Minecraft Bedrock was such a shoddy platform for developers to work on. I do intend to write about StealthCraft and its&rsquo; realm more in a future post.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/MYckJIZxppU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="doing-tutorials">Doing tutorials</h1>
+<p>On December 15th, I started using Godot by following their <a href="https://docs.godotengine.org/en/stable/getting_started/introduction/index.html">official documentation</a> which has a quick start guide and two simple tutorials in it.</p>
+<p>The introduction and step-by-step sections introduced me to some key concepts in Godot and showed me around the engine&rsquo;s editor (I found the option to change the theme to green by myself &gt;:D).</p>
+<img src="/images/learning-godot-in-30-days/godot-step-by-step.gif" alt="A GIF of the end result of a tutorial from the Godot documentation, where a placeholder image can be moved around with the arrow keys" loading="lazy" height="321px" width="600px"/>
+<p>It had some hands-on sections, but I didn&rsquo;t yet fully understand everything they talked about. That was fine though, the real tutorials were just ahead.</p>
+<h2 id="the-2d-one">The 2D one</h2>
+<p>The 2D tutorial was for a simple bullet-hell game where you dodge enemies and survive for as long as possible.</p>
+<p>I finished the tutorial pretty easily. I don&rsquo;t have much to say about it, other than it was pretty simple. Later, I&rsquo;d like to learn more about how the sprite animations work because I feel like I&rsquo;ll be using those often.</p>
+<img src="/images/learning-godot-in-30-days/godot-2d-tutorial.gif" alt="A GIF of the end result of the 2D game tutorial from the Godot documentation, where a player character has to avoid touching enemies" loading="lazy" height="322px" width="600px"/>
+<h2 id="then-the-3d-one">Then the 3D one</h2>
+<p>The 3D tutorial was for a similar bullet hell game, but in 3D and with a jump mechanic.</p>
+<p>I finished this tutorial too. I had a bit of trouble with the player&rsquo;s animation near the end, I just couldn&rsquo;t make the keyframes look as smooth as in the tutorial. Other than that, it went great. Working in 3D wasn&rsquo;t all that different to 2D, but I have a feeling 3D development would be harder with bigger games so I&rsquo;ll stick to making 2D ones after this.</p>
+<img src="/images/learning-godot-in-30-days/godot-3d-tutorial.gif" alt="A GIF of the end result of the 3D game tutorial from the Godot documentation, where a player character has to avoid touching enemies and can jump on them" loading="lazy" height="322px" width="600px"/>
+<p>After finishing all the official tutorials, I had all of five days left to make my own game. That&rsquo;s right. Because I started this project in the middle of December, I spent a lot of time with my family and procrastinated away the little morsels of time I had left.</p>
+<h1 id="making-my-own-game">Making my own game</h1>
+<p>With only five days to work with, I figured I should make a platformer as my first game. It&rsquo;s the typical beginner thing to do.</p>
+<p><strong>On day 1</strong>, I made a new project and tried to make a character and platforms by smacking nodes together. I figured out what nodes to use from the 2D tutorial I finished earlier and some other tutorial online. I gave the player and platforms placeholder textures, then gave the player movement logic by just giving it the default character script template Godot provides.</p>
+<img src="/images/learning-godot-in-30-days/godot-day-1.gif" alt="A GIF of a green player character jumping around on platforms with placeholder textures" loading="lazy" height="345px" width="580px"/>
+<p><strong>On day 2</strong>, I learnt how to use make and use a tilemap from the Godot documentation and replaced the platforms with proper terrain.</p>
+<img src="/images/learning-godot-in-30-days/godot-day-2.gif" alt="A GIF of a tilemap being laid out in the Godot editor" loading="lazy" height="324" width="500"/>
+<p><strong>Day 3</strong>, I added an angry enemy that walks left and right, bouncing off walls. I made this by copying the player script, removing the input logic, and figuring out how to make the enemy flip it&rsquo;s rotation when it collides with something. It also bounces off the player because I didn&rsquo;t get around to making game over logic.</p>
+<img src="/images/learning-godot-in-30-days/godot-day-3.gif" alt="A GIF of a green player character running and jumping around an enemy NPC" loading="lazy" height="285" width="362"/>
+<p>I skipped <strong>day 4</strong> because I was busy that day.</p>
+<p><strong>And on day 5</strong>, I let the player bounce on top of the enemies and added a finish flag. Going to the finish flag takes away your controls, puts up a victory screen, and makes the player do small jumps forever. The game <em>technically</em> has an ending now.</p>
+<p><video src="/videos/learning-godot-in-30-days/platformer-haha.mp4" controls preload="metadata"></video></p>
+<p>And that&rsquo;s the whole game.</p>
+<p>Not too proud of it, but it was fun and satisfying to make a game by myself even if the end result is&hellip; that.</p>
+<p>It&rsquo;s obvious what went wrong, I botched several weeks of my time and still only spent a couple hours a day on making the game after that. It was also my first time making content in years, so I was doing all this <em>while</em> recording it <em>and</em> writing a <a href="https://www.youtube.com/watch?v=-yiM-IhRL6A">video</a> script <em>and</em> this blog post. I&rsquo;ll have to learn to doom-scroll less and better manage those different tasks.</p>
+<p>Thanks so much for reading this! In my next post, I will be improving this skeleton of a game and trying to finish it.</p>
+
+
+
+
+
+	
+	<div id="commentSection">
+    <button id="loadComments" class="loadcommentsbutton">
+        <p>Load Comments</p>
+        <img class="loadcommentsicon" src="/icons/comments-green.svg" alt="Guestbook icon" style="height:36px; width: 40px;">
+    </button>
+</div>
+
+
+<div id="remark42" class="remark42"></div>
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
+		}
+		
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
+
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+		}
+	}
+	
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+</script>
+</main>
+
+<footer>
+	
+	<br>
+	<br>
+	
+	<div class="footersocials">
+		<a href="https://youtube.com/@Mat383"><img src="/icons/youtube.svg" class="sizeanimation" style="height:1.75em; width: 1.75em;" alt="Youtube" title="I post videos on YouTube"></a>
+		<a href="https://odysee.com/@Mat383"><img src="/icons/odyssey.png" class="sizeanimation" style="height:1.75em; width: 1.75em;" alt="Odyssey" title="I post videos to Odyssey too!"></a>
+		<a href="https://www.reddit.com/u/mat383"><img src="/icons/reddit.svg" class="sizeanimation" style="height:1.75em; width: 1.75em;" alt="Reddit" title="I post to Reddit, but only sometimes"></a>
+		<a href="/index.xml"><img src="/icons/rss.svg" class="sizeanimation" style="height:1.75em; width: 1.75em;" alt="RSS Feed" title="Subscribe via RSS for new blog posts!"></a>
+	</div>
+
+	<br>
+
+	<div class="footerbadges">
+		<a href="https://mat383.com/fanclub" class="sizeanimation"><img src="/badges/fanclub.gif" alt="Mat383 Fanclub!!" class="badgesize1"></a>
+		<a href="https://512kb.club/" class="sizeanimation"><img src="/badges/green-team.gif" alt="The 512KB Club" class="badgesize1"></a>
+		<a href="https://wiby.me/" class="sizeanimation"><img src="/badges/wiby.gif" alt="Wiby, the classic search engine" class="badgesize1"></a>
+		<a href="https://myfavouritewebsite.com/" class="sizeanimation"><img src="/badges/myfavouritewebsite.png" alt="My favourite website" class="badgesize1"></a>
+		<br>
+		<a href="http://250kb.club/" class="sizeanimation"><img src="/badges/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
+	</div>
+
+	<p class="footerhover">Made with <a href="https://gohugo.io/">Hugo</a> | <a href="https://github.com/mat-383/blog">Source code</a></p>
+</footer>
+
+
+
+</div>
+
+
+</body>
+</html>
+

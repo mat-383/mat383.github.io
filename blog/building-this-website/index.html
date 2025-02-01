@@ -18,6 +18,18 @@
 </head>
 <div class="balls-bg"></div>
 
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
+
 <nav class="navbar">
 	<div class="navbarcontent">
 		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
@@ -32,18 +44,22 @@
 		</div>
 	</div>
 </nav>
-
-<div class="particle-container">
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-</div>
-<body>
+<body style="visibility: hidden;">
+<script>
+	
+	let domReady = (cb) => {
+		document.readyState === 'interactive' || document.readyState === 'complete'
+		? cb()
+		: document.addEventListener('DOMContentLoaded', cb);
+	};
+	
+	domReady(() => {
+		
+		document.body.style.visibility = 'visible';
+	});
+</script>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
 
 <main>
 
@@ -54,10 +70,14 @@
 		<div class="posttags"><p>Tags: <a class="tag
         
         tagwebsite
+        
     " style="display:inline-block;"id="tag_website" href="https://mat383.com/tags/website">Website</a></p></div><h1 id="tag_Building this website" class="pagetitle">Building this website</h1>
 		<p class="pagesummary">Let me tell you why I made it and what tools I used.</p>
 		<p class="datewritten "><time>Date written: 03 Aug. 2024</time></p>
 	</header>
+
+
+
 
 
 
@@ -209,6 +229,8 @@
 
 
 </div>
+
+
 </body>
 </html>
 

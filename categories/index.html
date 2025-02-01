@@ -17,6 +17,18 @@
 </head>
 <div class="balls-bg"></div>
 
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
+
 <nav class="navbar">
 	<div class="navbarcontent">
 		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
@@ -31,18 +43,22 @@
 		</div>
 	</div>
 </nav>
-
-<div class="particle-container">
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-</div>
-<body>
+<body style="visibility: hidden;">
+<script>
+	
+	let domReady = (cb) => {
+		document.readyState === 'interactive' || document.readyState === 'complete'
+		? cb()
+		: document.addEventListener('DOMContentLoaded', cb);
+	};
+	
+	domReady(() => {
+		
+		document.body.style.visibility = 'visible';
+	});
+</script>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
 
 <main>
 
@@ -54,6 +70,9 @@
 		<p class="pagesummary"></p>
 		<p class="datewritten classicdatewritten"><time>Date written: 01 Jan. 0001</time></p>
 	</header>
+
+
+
 
 
 
@@ -146,6 +165,8 @@
 
 
 </div>
+
+
 </body>
 </html>
 

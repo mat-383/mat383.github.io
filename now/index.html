@@ -6,9 +6,10 @@
 	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='/style.css'>
 	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<meta name="description" content="Right now, I am&hellip; About to start my first real project. I&rsquo;ve been making and refining this website for prolly around half a year now, it&rsquo;s time to stop. I&rsquo;m pretty happy with the look of it, but I&rsquo;ve got nothing to display here.
-Expect a cool blog post and video soon (in a couple months at this rate L).
-I do want to make a lite version of my website later.">
+	<meta name="description" content="Right now, I am&hellip; About to continue working on the platformer game that I recently started.
+I&rsquo;m pretty happy with how that video turned out and the blog post too.
+Date written: 14 Dec. 2024
+And before that, I was&hellip; About to start my first real project. I&rsquo;ve been making and refining this website for prolly around half a year now, it&rsquo;s time to stop. I&rsquo;m pretty happy with the look of it, but I&rsquo;ve got nothing to display here.">
 	
 	<meta name="keywords" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,6 +20,18 @@ I do want to make a lite version of my website later.">
 	<link rel="me" href="https://github.com/mat-383"/>
 </head>
 <div class="balls-bg"></div>
+
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
 
 <nav class="navbar">
 	<div class="navbarcontent">
@@ -34,18 +47,22 @@ I do want to make a lite version of my website later.">
 		</div>
 	</div>
 </nav>
-
-<div class="particle-container">
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-</div>
-<body>
+<body style="visibility: hidden;">
+<script>
+	
+	let domReady = (cb) => {
+		document.readyState === 'interactive' || document.readyState === 'complete'
+		? cb()
+		: document.addEventListener('DOMContentLoaded', cb);
+	};
+	
+	domReady(() => {
+		
+		document.body.style.visibility = 'visible';
+	});
+</script>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
 
 <main>
 
@@ -55,22 +72,26 @@ I do want to make a lite version of my website later.">
 	<header class="headernocoverimg">
 		
 		
-		<p class="datewritten classicdatewritten"><time>Updated: 14 Dec. 2024</time></p>
+		<p class="datewritten classicdatewritten"><time>Updated: 01 Feb. 2025</time></p>
 	</header>
 
 
 
 
 
+
+
+
 <h1 id="right-now-i-am">Right now, I am&hellip;</h1>
+<p>About to continue working on the platformer game that I <a href="https://www.youtube.com/watch?v=-yiM-IhRL6A">recently started</a>.</p>
+<p>I&rsquo;m pretty happy with how that video turned out and the blog post too.</p>
+<br>
+<span style="opacity: 0.65">
+<p class="datewritten classicdatewritten">Date written: 14 Dec. 2024</p>
+<h2 id="and-before-that-i-was">And before that, I was&hellip;</h2>
 <p>About to start my first <em>real</em> project. I&rsquo;ve been making and refining this website for prolly around half a year now, it&rsquo;s time to stop. I&rsquo;m pretty happy with the look of it, but I&rsquo;ve got nothing to display here.</p>
 <p>Expect a cool blog post and video soon (in a couple months at this rate L).</p>
 <p><em>I do want to make a lite version of my website later. These new visual changes, while cool, are laggy on old devices and slow browsers. It&rsquo;s NOT where I want to put my focus now though.</em></p>
-<br>
-<span style="opacity: 0.65">
-<p class="datewritten classicdatewritten">Date written: 20 Nov. 2024</p>
-<h2 id="and-before-that-i-was">And before that, I was&hellip;</h2>
-<p>Preparing to make big changes to this website before starting to make other cool stuff. I&rsquo;m hoping to finish this by the end of the month.</p>
 </span>
 <br>
 
@@ -166,6 +187,8 @@ I do want to make a lite version of my website later.">
 
 
 </div>
+
+
 </body>
 </html>
 

@@ -12,6 +12,74 @@
 	
 	
 	<item>
+		<title>Learning Godot in 30 Days (gone wrong)</title>
+		<link>https://mat383.com/blog/learning-godot-in-30-days/</link>
+		<pubDate>Sat, 01 Feb 2025 12:36:12 +0000</pubDate>
+		
+		<guid>https://mat383.com/blog/learning-godot-in-30-days/</guid>
+		<description>&lt;h1 id=&#34;but-why&#34;&gt;But why&lt;/h1&gt;
+&lt;p&gt;As I&amp;rsquo;ve said before, I have always wanted to make games but I never had the patience to learn how to by myself. Now that the semester is over and this website is (mostly) done, I have the perfect opportunity to sit down and do this.&lt;/p&gt;
+&lt;p&gt;To fast-track this and make interesting content, I&amp;rsquo;m challenging myself to learn a game engine, specifically &lt;a href=&#34;https://godotengine.org/&#34;&gt;Godot&lt;/a&gt;, and make a decent game with it in a month. I don&amp;rsquo;t normally give myself deadlines like this, but that&amp;rsquo;s the reason I&amp;rsquo;m still learning this stuff at the age of 21 :P&lt;/p&gt;
+&lt;h1 id=&#34;my-background-so-far&#34;&gt;My background so far&lt;/h1&gt;
+&lt;p&gt;To give you some context around my current skills, here are the games I&amp;rsquo;ve made in the past.&lt;/p&gt;
+&lt;p&gt;Well&amp;hellip; the &lt;em&gt;presentable&lt;/em&gt; ones.&lt;/p&gt;
+&lt;h2 id=&#34;super-pong&#34;&gt;Super Pong&lt;/h2&gt;
+&lt;p&gt;This was a group assignment for uni. It&amp;rsquo;s a remake of pong (based off &lt;a href=&#34;https://www.youtube.com/watch?v=AcpaYq0ihaM&#34;&gt;this tutorial&lt;/a&gt;) where you can move the paddle in any direction. I didn&amp;rsquo;t write much code for this; my job was to make the art assets for it (the main menu is horrid), the particle effects, and the promotional poster. Most of the programming was done by my two other group members.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://danielpayne.itch.io/super-pong&#34;&gt;(itch.io link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hO-UJKaijWg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;keep-away&#34;&gt;Keep Away!&lt;/h2&gt;
+&lt;p&gt;This was also an assignment, but a solo one. It&amp;rsquo;s a short platformer where you have to run away from a ghost that you can slow down by looking at it. It was also based off a &lt;a href=&#34;https://dev.epicgames.com/community/learning/courses/kna/hour-of-code-unreal-engine-build-your-first-3d-game/0b8a/hour-of-code-unreal-engine-create-your-first-3d-game&#34;&gt;tutorial&lt;/a&gt;. I wrote some code (mostly in blueprints), added some features like the ghost, music, and fall faster action, and redesigned the level. I&amp;rsquo;m sort of proud of this one, but I know I could&amp;rsquo;ve done better if I was more familiar with the engine and C++ programming.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mat383.itch.io/keep-away&#34;&gt;(itch.io link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ca1IwRTYVj8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;stealthcraft&#34;&gt;StealthCraft&lt;/h2&gt;
+&lt;p&gt;Not really a game, but I&amp;rsquo;m including it for old times&amp;rsquo; sake. It was a minigame realm (server) for Minecraft Bedrock. It had a long history, opening in 2019 and closing in late 2023. A lot of people worked on it, including myself. I made a lot of things for that community and I learnt a lot of my content creation skills while being there to make better things.&lt;/p&gt;
+&lt;p&gt;We shut it down because we got too ambitious and didn&amp;rsquo;t have the motivation to finish things when Minecraft Bedrock was such a shoddy platform for developers to work on. I do intend to write about StealthCraft and its&amp;rsquo; realm more in a future post.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MYckJIZxppU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;doing-tutorials&#34;&gt;Doing tutorials&lt;/h1&gt;
+&lt;p&gt;On December 15th, I started using Godot by following their &lt;a href=&#34;https://docs.godotengine.org/en/stable/getting_started/introduction/index.html&#34;&gt;official documentation&lt;/a&gt; which has a quick start guide and two simple tutorials in it.&lt;/p&gt;
+&lt;p&gt;The introduction and step-by-step sections introduced me to some key concepts in Godot and showed me around the engine&amp;rsquo;s editor (I found the option to change the theme to green by myself &amp;gt;:D).&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-step-by-step.gif&#34; alt=&#34;A GIF of the end result of a tutorial from the Godot documentation, where a placeholder image can be moved around with the arrow keys&#34; loading=&#34;lazy&#34; height=&#34;321px&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;It had some hands-on sections, but I didn&amp;rsquo;t yet fully understand everything they talked about. That was fine though, the real tutorials were just ahead.&lt;/p&gt;
+&lt;h2 id=&#34;the-2d-one&#34;&gt;The 2D one&lt;/h2&gt;
+&lt;p&gt;The 2D tutorial was for a simple bullet-hell game where you dodge enemies and survive for as long as possible.&lt;/p&gt;
+&lt;p&gt;I finished the tutorial pretty easily. I don&amp;rsquo;t have much to say about it, other than it was pretty simple. Later, I&amp;rsquo;d like to learn more about how the sprite animations work because I feel like I&amp;rsquo;ll be using those often.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-2d-tutorial.gif&#34; alt=&#34;A GIF of the end result of the 2D game tutorial from the Godot documentation, where a player character has to avoid touching enemies&#34; loading=&#34;lazy&#34; height=&#34;322px&#34; width=&#34;600px&#34;/&gt;
+&lt;h2 id=&#34;then-the-3d-one&#34;&gt;Then the 3D one&lt;/h2&gt;
+&lt;p&gt;The 3D tutorial was for a similar bullet hell game, but in 3D and with a jump mechanic.&lt;/p&gt;
+&lt;p&gt;I finished this tutorial too. I had a bit of trouble with the player&amp;rsquo;s animation near the end, I just couldn&amp;rsquo;t make the keyframes look as smooth as in the tutorial. Other than that, it went great. Working in 3D wasn&amp;rsquo;t all that different to 2D, but I have a feeling 3D development would be harder with bigger games so I&amp;rsquo;ll stick to making 2D ones after this.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-3d-tutorial.gif&#34; alt=&#34;A GIF of the end result of the 3D game tutorial from the Godot documentation, where a player character has to avoid touching enemies and can jump on them&#34; loading=&#34;lazy&#34; height=&#34;322px&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;After finishing all the official tutorials, I had all of five days left to make my own game. That&amp;rsquo;s right. Because I started this project in the middle of December, I spent a lot of time with my family and procrastinated away the little morsels of time I had left.&lt;/p&gt;
+&lt;h1 id=&#34;making-my-own-game&#34;&gt;Making my own game&lt;/h1&gt;
+&lt;p&gt;With only five days to work with, I figured I should make a platformer as my first game. It&amp;rsquo;s the typical beginner thing to do.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On day 1&lt;/strong&gt;, I made a new project and tried to make a character and platforms by smacking nodes together. I figured out what nodes to use from the 2D tutorial I finished earlier and some other tutorial online. I gave the player and platforms placeholder textures, then gave the player movement logic by just giving it the default character script template Godot provides.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-1.gif&#34; alt=&#34;A GIF of a green player character jumping around on platforms with placeholder textures&#34; loading=&#34;lazy&#34; height=&#34;345px&#34; width=&#34;580px&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;On day 2&lt;/strong&gt;, I learnt how to use make and use a tilemap from the Godot documentation and replaced the platforms with proper terrain.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-2.gif&#34; alt=&#34;A GIF of a tilemap being laid out in the Godot editor&#34; loading=&#34;lazy&#34; height=&#34;324&#34; width=&#34;500&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;Day 3&lt;/strong&gt;, I added an angry enemy that walks left and right, bouncing off walls. I made this by copying the player script, removing the input logic, and figuring out how to make the enemy flip it&amp;rsquo;s rotation when it collides with something. It also bounces off the player because I didn&amp;rsquo;t get around to making game over logic.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-3.gif&#34; alt=&#34;A GIF of a green player character running and jumping around an enemy NPC&#34; loading=&#34;lazy&#34; height=&#34;285&#34; width=&#34;362&#34;/&gt;
+&lt;p&gt;I skipped &lt;strong&gt;day 4&lt;/strong&gt; because I was busy that day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And on day 5&lt;/strong&gt;, I let the player bounce on top of the enemies and added a finish flag. Going to the finish flag takes away your controls, puts up a victory screen, and makes the player do small jumps forever. The game &lt;em&gt;technically&lt;/em&gt; has an ending now.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/learning-godot-in-30-days/platformer-haha.mp4&#34; controls preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s the whole game.&lt;/p&gt;
+&lt;p&gt;Not too proud of it, but it was fun and satisfying to make a game by myself even if the end result is&amp;hellip; that.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s obvious what went wrong, I botched several weeks of my time and still only spent a couple hours a day on making the game after that. It was also my first time making content in years, so I was doing all this &lt;em&gt;while&lt;/em&gt; recording it &lt;em&gt;and&lt;/em&gt; writing a &lt;a href=&#34;https://www.youtube.com/watch?v=-yiM-IhRL6A&#34;&gt;video&lt;/a&gt; script &lt;em&gt;and&lt;/em&gt; this blog post. I&amp;rsquo;ll have to learn to doom-scroll less and better manage those different tasks.&lt;/p&gt;
+&lt;p&gt;Thanks so much for reading this! In my next post, I will be improving this skeleton of a game and trying to finish it.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Holiday Pictures from Cairns</title>
 		<link>https://mat383.com/blog/cairns-holiday-pics/</link>
 		<pubDate>Wed, 21 Aug 2024 05:54:00 +1000</pubDate>

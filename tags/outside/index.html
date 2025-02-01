@@ -17,6 +17,18 @@
 </head>
 <div class="balls-bg"></div>
 
+
+<div class="particle-container">
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+	<div class="particle"></div>
+</div>
+
 <nav class="navbar">
 	<div class="navbarcontent">
 		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
@@ -31,18 +43,22 @@
 		</div>
 	</div>
 </nav>
-
-<div class="particle-container">
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-	<div class="particle"></div>
-</div>
-<body>
+<body style="visibility: hidden;">
+<script>
+	
+	let domReady = (cb) => {
+		document.readyState === 'interactive' || document.readyState === 'complete'
+		? cb()
+		: document.addEventListener('DOMContentLoaded', cb);
+	};
+	
+	domReady(() => {
+		
+		document.body.style.visibility = 'visible';
+	});
+</script>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
 
 <main>
 
@@ -69,7 +85,10 @@
 						<div class="postpreviewtime"><time datetime="2024-08-21T05:54:00&#43;10:00">2024 Aug 21</time></div>
 						<div class="postpreviewtags">
 							<p class="tag
-        tagoutside" style="display:inline-block;"id="tag_outside" href="https://mat383.com/tags/outside">Outside</p></div>
+        tagoutside
+        
+        
+    " style="display:inline-block;"id="tag_outside" href="https://mat383.com/tags/outside">Outside</p></div>
 					</div>
 					
 					<div class="postpreviewtitle">
@@ -84,6 +103,9 @@
 			</div>
 		</a>
 </div>
+
+
+
 
 
 
@@ -175,6 +197,8 @@
 
 
 </div>
+
+
 </body>
 </html>
 
