@@ -147,7 +147,32 @@
 	document.getElementById('loadComments').addEventListener('click', function() {
 		loadRemark42();
 	});
+
 </script>
+
+
+
+	<script>
+		const options = {
+			root: null, 
+			rootMargin: '0px', 
+			threshold: 0.1 
+		};
+		
+		const observer = new IntersectionObserver((entries) => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					loadRemark42();
+					observer.disconnect(); 
+				}
+			});
+		}, options);
+		
+		
+		observer.observe(document.getElementById('commentSection'));
+	</script>
+
+
 </main>
 
 <footer>
