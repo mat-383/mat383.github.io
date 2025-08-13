@@ -33,8 +33,8 @@
 		
 		<description>&lt;br&gt;
 
-&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:600px;&#34;&gt;
-		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/covers/test1.jpg&#34;&gt;
+&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:600;&#34;&gt;
+		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/covers/test1.jpg&#34; loading=&#34;lazy&#34;&gt;
 		
 	&lt;/div&gt;&lt;/figure&gt;
 
