@@ -6,72 +6,123 @@
 	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Wed, 16 Jul 2025 21:39:26 +1000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Aug 2024 05:54:00 +1000</lastBuildDate>
     
         <atom:link href="https://mat383.com/tags/outside/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Test Post 7</title>
-		<link>https://mat383.com/blog/smallpost7/</link>
-		<pubDate>Thu, 17 Jul 2025 21:39:26 +1000</pubDate>
+		<title>Drive Ahead Prototype</title>
+		<link>https://mat383.com/blog/drive-ahead-prototype/</link>
+		<pubDate>Sat, 16 Aug 2025 15:53:35 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/smallpost7/</guid>
+		<guid>https://mat383.com/blog/drive-ahead-prototype/</guid>
 		
 		
-		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/firewatch.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(150, 250, 100, 0.6)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/drive-forward.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.6)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is a tiny prototype inspired by &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.dodreams.driveahead&#34;&gt;Drive Ahead&lt;/a&gt;, a mobile game I played when I was a wee little iPad kid. I had heaps of good memories playing that.&lt;/p&gt;
+&lt;p&gt;I found out it&amp;rsquo;s still being updated and it&amp;rsquo;s become a modern mobile game with microtransactions, ads, battlepasses, and forced internet connectivity :(&lt;/p&gt;
+&lt;p&gt;As a joke I said we would be remaking it for PC, so I threw this together in about 3 hours.&lt;/p&gt;
+&lt;p&gt;You can download the game &lt;a href=&#34;https://mega.nz/folder/G7pDDbjL#66_AfEWzJCFam8SlVI4VkA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Testtt ttt t t tt t  t tttttttt tt t   t  t t  tt Posttttttt 6</title>
-		<link>https://mat383.com/blog/smallpost6/</link>
-		<pubDate>Wed, 16 Jul 2025 21:39:26 +1000</pubDate>
+		<title>Serene Islands 3D Environment</title>
+		<link>https://mat383.com/blog/serene-islands-3d-environment/</link>
+		<pubDate>Sun, 01 Jun 2025 15:53:35 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/smallpost6/</guid>
+		<guid>https://mat383.com/blog/serene-islands-3d-environment/</guid>
 		
 		
-		<description>&lt;br&gt;
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/serene-islands-walkthrough.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 255, 0.8)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is a 3D environment I made for a uni assignment. I made all of the assets myself in Blender (some textures like the sand and skybox were outsourced) and assembled the scene in Godot.&lt;/p&gt;
+&lt;p&gt;The art style is meant to be low-poly, fantasy, and cartoony. It was inspired by old Nintendo 3DS games, specifically Pokemon Super Mystery Dungeon.&lt;/p&gt;
 
-&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:600;&#34;&gt;
-		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/covers/test1.jpg&#34; loading=&#34;lazy&#34;&gt;
+&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:500px;&#34;&gt;
+		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/small-posts/psmd.jpg&#34; loading=&#34;lazy&#34;&gt;
 		
 	&lt;/div&gt;&lt;/figure&gt;
 
-&lt;br&gt;</description>
+&lt;p&gt;This is actually my second attempt at this art style. My first one was smaller in scale and took place a year prior. Here it is:&lt;/p&gt;
+&lt;div class=&#34;sketchfab-embed-wrapper&#34;&gt; &lt;iframe title=&#34;Low-poly Fantasy Farmhouse&#34; frameborder=&#34;0&#34; allowfullscreen mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; allow=&#34;autoplay; fullscreen; xr-spatial-tracking&#34; xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=&#34;https://sketchfab.com/models/5d1e5958e6bc4e409f601028557860b4/embed?dnt=1&#34; style=&#34;max-width:550px; width:100%; aspect-ratio: 1.5; max-height: 275px; margin:32px auto; display:block; box-shadow:0px 0px 35px rgba(150, 150, 255, 0.6);&#34;;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;The world this environment is set in is the world of the dream game I talked about &lt;a href=&#34;http://mat383.com/blog/building-this-website/#:~:text=About%20two%20years,it%20for%20months.&#34;&gt;in my first post&lt;/a&gt;. While that game is &lt;em&gt;many&lt;/em&gt; years away from being even started and it wouldn&amp;rsquo;t even be a 3D game, it&amp;rsquo;s nice to get the ball rolling with some world-building.&lt;/p&gt;
+&lt;p&gt;Here is the description (lore) of the scene:&lt;/p&gt;
+&lt;dd&gt;
+&lt;p&gt;&lt;em&gt;This is set in a fantasy, non-human, species-diverse world. The inhabitants are not very technologically advanced but still have homes, cultures, partake in agriculture, and cooperate with each other in a civilised way.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;These two naturally-formed islands are largely uninhabited, apart from the water and airborne animals who can easily access it. Those who do often hang around or camp at these islands, usually playing on the smaller western island during the day and finding shelter on the larger eastern island at night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Everyone who knows of these islands agrees to not settle there to preserve the natural beauty of it. Therefore you will not find any developments here, other than the occasional campfire, tree swing, or temporary shelter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At the peak of the mountain is a statue dedicated to the gods that birthed the oceans. It was crafted by the locals to show their appreciation of the higher beings whose gift now supports the lives of many. Since it was built, the crystal atop the statue has started to glow and sparkle, that being proof the gods recognize this offering.&lt;/em&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;p&gt;You can download the game, models, and project file &lt;a href=&#34;https://mega.nz/folder/G9MwjQBT#vt7Evhvs5FxVzQiwNVqItg&#34;&gt;here&lt;/a&gt; and read the full dev journal / portfolio here &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdwwghgzkh5sbpGc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
-		<title>Test Posttttttt  t t t ttt  t t  t  t t t t 5</title>
-		<link>https://mat383.com/blog/smallpost5/</link>
-		<pubDate>Tue, 15 Jul 2025 21:39:26 +1000</pubDate>
+		<title>Hypnotic Typing Prototype</title>
+		<link>https://mat383.com/blog/hypnotic-typing-prototype/</link>
+		<pubDate>Thu, 15 May 2025 15:53:35 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/smallpost5/</guid>
+		<guid>https://mat383.com/blog/hypnotic-typing-prototype/</guid>
 		
 		
-		<description></description>
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/hypnotype.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.7)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is Hypnotype, an experimental game prototype I made for a uni assignment. It&amp;rsquo;s a typing Cookie Clicker-like game where the longer and faster you type, the more intense the game&amp;rsquo;s music and visuals get. You can also buy upgrades from a shop to type words faster.&lt;/p&gt;
+&lt;p&gt;The two upgrades in the game are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pronged Quill&lt;/strong&gt;: Extra lanes of words are unlocked. Every correct letter you type on the main lane is sent to the other lanes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Literate Clover&lt;/strong&gt;: Gives a 2% chance (for each clover) to automatically correct a typo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The inspiration for this game was the idea of someone doing something very intently on a computer while on-lookers see crazy, unexplainable visuals happening on their screen. I think I achieved that with Hypnotype, but it&amp;rsquo;s a very short experience.&lt;/p&gt;
+&lt;p&gt;Clicker games like Cookie Clicker can be played for many hours because their core game loop is making currency to buy faster ways of making currency, automatically even. Because I don&amp;rsquo;t want to let players completely automate this typing game, I don&amp;rsquo;t believe the traditional clicker game loop works for a typing game like this.&lt;/p&gt;
+&lt;p&gt;There is also no point in playing the game for more than 5 minutes because if you buy at least 50 literate clovers, you can slide your hands across your keyboard and every single letter you type will be correct.&lt;/p&gt;
+&lt;p&gt;If this game were to be developed further, I&amp;rsquo;d have to pivot to a different gameplay style. I&amp;rsquo;ve been suggested the idea of level-based gameplay where you would type out a specific string of text, like a page of a book, similar to Typeracer. The background visuals could also match the words being typed.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d also need to change the background visuals to something other than videos, because having several of them playing on top of each other is pretty laggy. I don&amp;rsquo;t want to release a 2D typing game that has the same minimum requirements as Cyberpunk 2077.&lt;/p&gt;
+&lt;p&gt;The background videos are mostly copyright free videos from &lt;a href=&#34;https://www.pexels.com/&#34;&gt;Pexels&lt;/a&gt; plus a couple meme videos from YouTube and the music is by &lt;a href=&#34;https://mobygratis.com&#34;&gt;mobygratis&lt;/a&gt;. I also used the awesome &lt;a href=&#34;https://voylin.itch.io/gde-gozen-video-playback-addon-for-godot&#34;&gt;GDE GoZen&lt;/a&gt; plugin for Godot because the engine&amp;rsquo;s native support for videos is currently very limited.&lt;/p&gt;
+&lt;p&gt;You can download the game &lt;a href=&#34;https://mega.nz/folder/2rBSTQ7T#u-yuWMNl8Bdw05l8mcS7zQ&#34;&gt;here&lt;/a&gt; and also read my full dev journal &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (weeks 8-11).&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
-		<title>Test Post 4</title>
-		<link>https://mat383.com/blog/smallpost4/</link>
-		<pubDate>Mon, 14 Jul 2025 21:39:26 +1000</pubDate>
+		<title>Fast Ball Prototype</title>
+		<link>https://mat383.com/blog/fast-ball-prototype/</link>
+		<pubDate>Thu, 10 Apr 2025 15:53:35 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/smallpost4/</guid>
+		<guid>https://mat383.com/blog/fast-ball-prototype/</guid>
 		
 		
-		<description></description>
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/now/haste balls level 2.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(150, 255, 150, 0.5)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is the second level of an experimental game prototype I made for a uni assignment. It&amp;rsquo;s a game where you are a ball and can hold a button to fall faster. You get faster by falling down onto slopes quickly.&lt;/p&gt;
+&lt;p&gt;The game (more of a demo, actually) has three levels that you swap between by pressing 1-3 keys on your keyboard. They&amp;rsquo;re all small challenge levels made to test what gameplay is fun with this movement mechanic.&lt;/p&gt;
+&lt;p&gt;This is completely inspired by &lt;a href=&#34;https://store.steampowered.com/app/1796470/HASTE_Broken_Worlds/&#34;&gt;Haste&lt;/a&gt;, an incredible game built around the same core mechanic.&lt;/p&gt;
+&lt;p&gt;To be honest, I had super high hopes going into that game. I followed the development of Haste closely, watching all the teasers and sneak peaks Landfall (the devs) posted. From what I saw anyway, they experimented a lot with what gameplay goes well with this movement mechanic. At one point, the game was going to be a multiplayer racing battle royale thing. By the end of it, they released a roguelike with mostly inconsequential items and procedurally generated levels that all feel samey and don&amp;rsquo;t scale well with super high speeds. In between we saw a lot of ideas, &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345701248497881088/Download.mp4&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345700427026403348/Download.mp4&#34;&gt;super&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=lyc4S9cP4Vg&#34;&gt;cool&lt;/a&gt; (3 links), that never made it into the final game. If you wanna see more, I invite you to hunt down old videos of Haste in Landfall&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/@LandFallGames/videos&#34;&gt;YouTube&lt;/a&gt;, &lt;a href=&#34;https://www.instagram.com/landfall_official/&#34;&gt;Instagram&lt;/a&gt;, and &lt;a href=&#34;https://www.tiktok.com/@landfallgames&#34;&gt;TikTok&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t get me wrong though, I love Haste. It is still &lt;em&gt;the best execution&lt;/em&gt; of going fast that I&amp;rsquo;ve ever seen in a video game. I just courageously believe I can do it better.&lt;/p&gt;
+&lt;p&gt;Not with this demo of course. My main idea for the proper game is to import 1:1 scale terrain data of the entire state of &lt;a href=&#34;https://www.google.com/maps/place/Queensland/@-19.1595503,145.7755994,5z&#34;&gt;Queensland, Australia&lt;/a&gt; into Godot and have the player race from the south side of that to the north (about 2000km) over the course of a few hours, reaching speeds of hundreds of metres per second and zipping through real mountain ranges. It&amp;rsquo;d be like an epic convergence of Haste and Desert Bus. I&amp;rsquo;ve never seen anyone make such a large map in Godot, the technical underdog game engine, but dammit I&amp;rsquo;ll try. I &lt;em&gt;want&lt;/em&gt; to experience this fantasy &lt;em&gt;so bad&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to try this game/demo for yourself, you can download it &lt;a href=&#34;https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA&#34;&gt;here&lt;/a&gt;. You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 5-6).&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
-		<title>Test Posttttttttt 3</title>
-		<link>https://mat383.com/blog/smallpost3/</link>
-		<pubDate>Sun, 13 Jul 2025 21:39:26 +1000</pubDate>
+		<title>Microphone Game Prototype</title>
+		<link>https://mat383.com/blog/microphone-game-prototype/</link>
+		<pubDate>Tue, 25 Mar 2025 15:53:35 +1000</pubDate>
 		
-		<guid>https://mat383.com/blog/smallpost3/</guid>
+		<guid>https://mat383.com/blog/microphone-game-prototype/</guid>
 		
 		
-		<description></description>
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/now/idontlikeyourface.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.8)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is an experimental game prototype I made for a uni assignment. In this game, you attack your enemies verbally with insults.&lt;/p&gt;
+&lt;p&gt;Your words are transcribed offline with the &lt;a href=&#34;https://github.com/V-Sekai/godot-whisper&#34;&gt;Godot Whisper&lt;/a&gt; plug-in and if you say a word that &amp;ldquo;offends&amp;rdquo; the enemy, they take damage. If you don&amp;rsquo;t offend them enough, they get impatient and you lose a life.&lt;/p&gt;
+&lt;p&gt;It sounded like a fun concept to make, but the big downfall of this game is that the list of offensive words is hand-written and I haven&amp;rsquo;t thought of every single insult in existence. I tried to use AI to generate massive amounts of potentially offensive words, but it just returned words I already thought of plus incredibly specific insults that no normal person would use.&lt;/p&gt;
+&lt;p&gt;Conversely, I also found that playtesters (myself included) panic and instinctively use the same few cheap insults against every enemy (stupid, fat, ugly, dumb, etc.). I understand why, but it&amp;rsquo;s not interesting gameplay.&lt;/p&gt;
+&lt;p&gt;One obvious solution to this problem is to evaluate the offensiveness of the player&amp;rsquo;s words using AI. I experimented with this during development but only the smallest large language models were fast enough for near real-time responses. Those were woefully innaccurate, giving wildly different responses for the same inputs and sometimes rambling indefinitely. Lightweight LLM tech would have to get much better to be useful in applications like this, but ngl I&amp;rsquo;m looking forward to it.&lt;/p&gt;
+&lt;p&gt;If after all of that you still want to play this game, you can download it &lt;a href=&#34;https://mega.nz/file/TodxVJrA#hqgzlyt8QB57RuJxmetHqaDuhZDHHG5lbo8P93HLTGU&#34;&gt;here&lt;/a&gt; (Windows only though). You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 1-4).&lt;/p&gt;
+</description>
 	</item>
 	
 	<item>
@@ -144,28 +195,6 @@
 &lt;p&gt;You can download Windows and Linux builds of this game from &lt;a href=&#34;https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA&#34;&gt;here&lt;/a&gt;. It should work for everyone because it works on my machine ;)&lt;/p&gt;
 &lt;p&gt;Thanks so much for reading this! In my next post, I will be improving this skeleton of a game and trying to finish it.&lt;/p&gt;
 </description>
-	</item>
-	
-	<item>
-		<title>Test Postttttt 2</title>
-		<link>https://mat383.com/blog/smallpost2/</link>
-		<pubDate>Tue, 12 Nov 2024 21:39:26 +1000</pubDate>
-		
-		<guid>https://mat383.com/blog/smallpost2/</guid>
-		
-		
-		<description></description>
-	</item>
-	
-	<item>
-		<title>Test Post 1</title>
-		<link>https://mat383.com/blog/smallpost1/</link>
-		<pubDate>Mon, 11 Nov 2024 21:39:26 +1000</pubDate>
-		
-		<guid>https://mat383.com/blog/smallpost1/</guid>
-		
-		
-		<description></description>
 	</item>
 	
 	<item>
