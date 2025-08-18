@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #121212; color: #ccc;">
+<head>
+	<title>Microphone Game Prototype - mat383.com</title>
+	<link rel="canonical" href="https://mat383.com/">
+	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
+
+	
+	<link rel="stylesheet" href="https://mat383.com/style.min.css">
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<meta name="description" content="This is an experimental game prototype I made for a uni assignment. In this game, you attack your enemies verbally with insults.
+Your words are transcribed offline with the Godot Whisper plug-in and if you say a word that &ldquo;offends&rdquo; the enemy, they take damage. If you don&rsquo;t offend them enough, they get impatient and you lose a life.
+It sounded like a fun concept to make, but the big downfall of this game is that the list of offensive words is hand-written and I haven&rsquo;t thought of every single insult in existence.">
+	
+	<meta name="keywords" content="game dev">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta name="darkreader-lock">
+	<meta charset="utf-8">
+
+	<link rel="me" href="https://github.com/mat-383"/>
+</head>
+<div class="balls-bg"></div>
+
+
+
+<nav class="navbar">
+	<div class="navbarcontent">
+		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
+			<style>.navbarm{fill:transparent}</style>
+			<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1348 1100" preserveAspectRatio="xMinYMin meet" style="width: 100%; height: 100%; max-height:65px; max-width:70px;"><path class="navbarm" d="m118 999l78-897h363l124 560 183-560h369l-23 897h-244l20-640-211 640h-241l-144-640-42 640z"/></svg>
+		</a>
+		<div class="otherlinks"> 
+			<a href="/blog" style="color:#ccc" class="navlink activepage">Blog</a>
+			<a href="/now" style="color:#ccc" class="navlink ">Now</a>
+			
+			<a href="/about" style="color:#ccc" class="navlink ">About</a>
+		</div>
+	</div>
+</nav>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
+<main>
+
+
+<div class="contentbg float-in">
+
+	<header class="headersmallpost ">
+		
+			<div class="coverimgcontainer">
+				<div class="coverimgcontainer2">
+					<div class="coverimg">
+						<picture>
+							<source srcset="/images/covers/microphone-game-prototype.avif" type="image/avif">
+							<img src="microphone-game-prototype.jpg" width="800" height="400">
+						</picture>
+					</div>
+				</div>
+			</div>
+		<div class="posttags"><p>Tags: <a class="tag
+        
+        
+        taggamedev
+    " style="display:inline-block;"id="tag_game dev" href="https://mat383.com/tags/game-dev">Game Dev</a></p></div><h1 id="tag_Microphone Game Prototype" class="pagetitle">Microphone Game Prototype</h1>
+		
+		<p class="datewritten "><time>Date posted: 25 Mar. 2025</time></p>
+	</header>
+
+
+
+
+
+
+
+
+<p><video src="/videos/now/idontlikeyourface.mp4" controls  preload="metadata" style="box-shadow:0px 0px 35px rgba(200, 200, 200, 0.8)"></video></p>
+<br>
+<p>This is an experimental game prototype I made for a uni assignment. In this game, you attack your enemies verbally with insults.</p>
+<p>Your words are transcribed offline with the <a href="https://github.com/V-Sekai/godot-whisper">Godot Whisper</a> plug-in and if you say a word that &ldquo;offends&rdquo; the enemy, they take damage. If you don&rsquo;t offend them enough, they get impatient and you lose a life.</p>
+<p>It sounded like a fun concept to make, but the big downfall of this game is that the list of offensive words is hand-written and I haven&rsquo;t thought of every single insult in existence. I tried to use AI to generate massive amounts of potentially offensive words, but it just returned words I already thought of plus incredibly specific insults that no normal person would use.</p>
+<p>Conversely, I also found that playtesters (myself included) panic and instinctively use the same few cheap insults against every enemy (stupid, fat, ugly, dumb, etc.). I understand why, but it&rsquo;s not interesting gameplay.</p>
+<p>One obvious solution to this problem is to evaluate the offensiveness of the player&rsquo;s words using AI. I experimented with this during development but only the smallest large language models were fast enough for near real-time responses. Those were woefully innaccurate, giving wildly different responses for the same inputs and sometimes rambling indefinitely. Lightweight LLM tech would have to get much better to be useful in applications like this, but ngl I&rsquo;m looking forward to it.</p>
+<p>If after all of that you still want to play this game, you can download it <a href="https://mega.nz/file/TodxVJrA#hqgzlyt8QB57RuJxmetHqaDuhZDHHG5lbo8P93HLTGU">here</a> (Windows only though). You can also find my full dev journal for this game <a href="https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa">here</a> (in weeks 1-4).</p>
+
+
+
+
+
+	
+	<div class="custombuttoncontainer" style="margin: 0 auto;" id="commentSection">
+    <a>
+        <button id="loadComments" class="custombutton _1" style="--color:rgb(0, 180, 0); --paddingx:13px; --paddingy:18px">
+            <p>Load Comments</p><img class="custombuttonicon" src="/icons/comments-green.png" alt="Load Comments" style="height:2.25em; width: auto;">
+        </button>
+        <button class="custombutton _2" style="--color:rgb(0, 180, 0); --paddingx:13px; --paddingy:18px">
+            <p>Load Comments</p><img class="custombuttonicon" src="/icons/comments-green.png" alt="Load Comments" style="height:2.25em; width: auto;">
+        </button>
+    </a>
+</div>
+
+
+<div id="remark42" class="remark42"></div>
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
+		}
+		
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
+
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+		}
+	}
+	
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+
+</script>
+
+
+
+	<script>
+		const options = {
+			root: null, 
+			rootMargin: '0px', 
+			threshold: 0.1 
+		};
+		
+		const observer = new IntersectionObserver((entries) => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					loadRemark42();
+					observer.disconnect(); 
+				}
+			});
+		}, options);
+		
+		
+		observer.observe(document.getElementById('commentSection'));
+	</script>
+
+
+</main>
+
+<footer>
+	
+	<br>
+	<br>
+
+	<br>
+
+	<div class="footerbadges">
+		<a href="https://mat383.com/fanclub" class="sizeanimation"><img src="/badges/fanclub.gif" alt="Mat383 Fanclub!!" class="badgesize1"></a>
+		<a href="https://512kb.club/" class="sizeanimation"><img src="/badges/green-team.gif" alt="The 512KB Club" class="badgesize1"></a>
+		<a href="https://wiby.me/" class="sizeanimation"><img src="/badges/wiby.png" alt="Wiby, the classic search engine" class="badgesize1"></a>
+		<a href="https://myfavouritewebsite.com/" class="sizeanimation"><img src="/badges/myfavouritewebsite.png" alt="My favourite website" class="badgesize1"></a>
+		<br>
+		<a href="http://250kb.club/" class="sizeanimation"><img src="/badges/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
+	</div>
+
+	<p class="footerhover">Made with <a href="https://gohugo.io/">Hugo</a> | <a href="https://github.com/mat-383/blog">Source code</a></p>
+</footer>
+
+
+
+</div>
+
+
+</body>
+</html>
+

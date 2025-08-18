@@ -1,0 +1,358 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>mat383.com</title>
+	<link>https://mat383.com/about/</link>
+	<description>Blog posts from in About me mat383.com</description>
+	<ttl>60</ttl>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 09 Aug 2025 00:15:40 +1000</lastBuildDate>
+    
+        <atom:link href="https://mat383.com/about/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Drive Ahead Prototype</title>
+		<link>https://mat383.com/blog/drive-ahead-prototype/</link>
+		<pubDate>Sat, 16 Aug 2025 15:53:35 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/drive-ahead-prototype/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/drive-forward.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.6)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is a tiny prototype inspired by &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.dodreams.driveahead&#34;&gt;Drive Ahead&lt;/a&gt;, a mobile game I played when I was a wee little iPad kid. I had heaps of good memories playing that.&lt;/p&gt;
+&lt;p&gt;I found out it&amp;rsquo;s still being updated and it&amp;rsquo;s become a modern mobile game with microtransactions, ads, battlepasses, and forced internet connectivity :(&lt;/p&gt;
+&lt;p&gt;As a joke I said we would be remaking it for PC, so I threw this together in about 3 hours.&lt;/p&gt;
+&lt;p&gt;You can download the game &lt;a href=&#34;https://mega.nz/folder/G7pDDbjL#66_AfEWzJCFam8SlVI4VkA&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Serene Islands 3D Environment</title>
+		<link>https://mat383.com/blog/serene-islands-3d-environment/</link>
+		<pubDate>Sun, 01 Jun 2025 15:53:35 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/serene-islands-3d-environment/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/serene-islands-walkthrough.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 255, 0.8)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is a 3D environment I made for a uni assignment. I made all of the assets myself in Blender (some textures like the sand and skybox were outsourced) and assembled the scene in Godot.&lt;/p&gt;
+&lt;p&gt;The art style is meant to be low-poly, fantasy, and cartoony. It was inspired by old Nintendo 3DS games, specifically Pokemon Super Mystery Dungeon.&lt;/p&gt;
+
+&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:500px;&#34;&gt;
+		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/small-posts/psmd.jpg&#34; loading=&#34;lazy&#34;&gt;
+		
+	&lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;This is actually my second attempt at this art style. My first one was smaller in scale and took place a year prior. Here it is:&lt;/p&gt;
+&lt;div class=&#34;sketchfab-embed-wrapper&#34;&gt; &lt;iframe title=&#34;Low-poly Fantasy Farmhouse&#34; frameborder=&#34;0&#34; allowfullscreen mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; allow=&#34;autoplay; fullscreen; xr-spatial-tracking&#34; xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=&#34;https://sketchfab.com/models/5d1e5958e6bc4e409f601028557860b4/embed?dnt=1&#34; style=&#34;max-width:550px; width:100%; aspect-ratio: 1.5; max-height: 275px; margin:32px auto; display:block; box-shadow:0px 0px 35px rgba(150, 150, 255, 0.6);&#34;;&gt; &lt;/iframe&gt; &lt;/div&gt;
+&lt;p&gt;The world this environment is set in is the world of the dream game I talked about &lt;a href=&#34;http://mat383.com/blog/building-this-website/#:~:text=About%20two%20years,it%20for%20months.&#34;&gt;in my first post&lt;/a&gt;. While that game is &lt;em&gt;many&lt;/em&gt; years away from being even started and it wouldn&amp;rsquo;t even be a 3D game, it&amp;rsquo;s nice to get the ball rolling with some world-building.&lt;/p&gt;
+&lt;p&gt;Here is the description (lore) of the scene:&lt;/p&gt;
+&lt;dd&gt;
+&lt;p&gt;&lt;em&gt;This is set in a fantasy, non-human, species-diverse world. The inhabitants are not very technologically advanced but still have homes, cultures, partake in agriculture, and cooperate with each other in a civilised way.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;These two naturally-formed islands are largely uninhabited, apart from the water and airborne animals who can easily access it. Those who do often hang around or camp at these islands, usually playing on the smaller western island during the day and finding shelter on the larger eastern island at night.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Everyone who knows of these islands agrees to not settle there to preserve the natural beauty of it. Therefore you will not find any developments here, other than the occasional campfire, tree swing, or temporary shelter.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At the peak of the mountain is a statue dedicated to the gods that birthed the oceans. It was crafted by the locals to show their appreciation of the higher beings whose gift now supports the lives of many. Since it was built, the crystal atop the statue has started to glow and sparkle, that being proof the gods recognize this offering.&lt;/em&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;p&gt;You can download the game, models, and project file &lt;a href=&#34;https://mega.nz/folder/G9MwjQBT#vt7Evhvs5FxVzQiwNVqItg&#34;&gt;here&lt;/a&gt; and read the full dev journal / portfolio here &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdwwghgzkh5sbpGc&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Hypnotic Typing Prototype</title>
+		<link>https://mat383.com/blog/hypnotic-typing-prototype/</link>
+		<pubDate>Thu, 15 May 2025 15:53:35 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/hypnotic-typing-prototype/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/small-posts/hypnotype.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.7)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is Hypnotype, an experimental game prototype I made for a uni assignment. It&amp;rsquo;s a typing Cookie Clicker-like game where the longer and faster you type, the more intense the game&amp;rsquo;s music and visuals get. You can also buy upgrades from a shop to type words faster.&lt;/p&gt;
+&lt;p&gt;The two upgrades in the game are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pronged Quill&lt;/strong&gt;: Extra lanes of words are unlocked. Every correct letter you type on the main lane is sent to the other lanes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Literate Clover&lt;/strong&gt;: Gives a 2% chance (for each clover) to automatically correct a typo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The inspiration for this game was the idea of someone doing something very intently on a computer while on-lookers see crazy, unexplainable visuals happening on their screen. I think I achieved that with Hypnotype, but it&amp;rsquo;s a very short experience.&lt;/p&gt;
+&lt;p&gt;Clicker games like Cookie Clicker can be played for many hours because their core game loop is making currency to buy faster ways of making currency, automatically even. Because I don&amp;rsquo;t want to let players completely automate this typing game, I don&amp;rsquo;t believe the traditional clicker game loop works for a typing game like this.&lt;/p&gt;
+&lt;p&gt;There is also no point in playing the game for more than 5 minutes because if you buy at least 50 literate clovers, you can slide your hands across your keyboard and every single letter you type will be correct.&lt;/p&gt;
+&lt;p&gt;If this game were to be developed further, I&amp;rsquo;d have to pivot to a different gameplay style. I&amp;rsquo;ve been suggested the idea of level-based gameplay where you would type out a specific string of text, like a page of a book, similar to Typeracer. The background visuals could also match the words being typed.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d also need to change the background visuals to something other than videos, because having several of them playing on top of each other is pretty laggy. I don&amp;rsquo;t want to release a 2D typing game that has the same minimum requirements as Cyberpunk 2077.&lt;/p&gt;
+&lt;p&gt;The background videos are mostly copyright free videos from &lt;a href=&#34;https://www.pexels.com/&#34;&gt;Pexels&lt;/a&gt; plus a couple meme videos from YouTube and the music is by &lt;a href=&#34;https://mobygratis.com&#34;&gt;mobygratis&lt;/a&gt;. I also used the awesome &lt;a href=&#34;https://voylin.itch.io/gde-gozen-video-playback-addon-for-godot&#34;&gt;GDE GoZen&lt;/a&gt; plugin for Godot because the engine&amp;rsquo;s native support for videos is currently very limited.&lt;/p&gt;
+&lt;p&gt;You can download the game &lt;a href=&#34;https://mega.nz/folder/2rBSTQ7T#u-yuWMNl8Bdw05l8mcS7zQ&#34;&gt;here&lt;/a&gt; and also read my full dev journal &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (weeks 8-11).&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Fast Ball Prototype</title>
+		<link>https://mat383.com/blog/fast-ball-prototype/</link>
+		<pubDate>Thu, 10 Apr 2025 15:53:35 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/fast-ball-prototype/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/now/haste balls level 2.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(150, 255, 150, 0.5)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is the second level of an experimental game prototype I made for a uni assignment. It&amp;rsquo;s a game where you are a ball and can hold a button to fall faster. You get faster by falling down onto slopes quickly.&lt;/p&gt;
+&lt;p&gt;The game (more of a demo, actually) has three levels that you swap between by pressing 1-3 keys on your keyboard. They&amp;rsquo;re all small challenge levels made to test what gameplay is fun with this movement mechanic.&lt;/p&gt;
+&lt;p&gt;This is completely inspired by &lt;a href=&#34;https://store.steampowered.com/app/1796470/HASTE_Broken_Worlds/&#34;&gt;Haste&lt;/a&gt;, an incredible game built around the same core mechanic.&lt;/p&gt;
+&lt;p&gt;To be honest, I had super high hopes going into that game. I followed the development of Haste closely, watching all the teasers and sneak peaks Landfall (the devs) posted. From what I saw anyway, they experimented a lot with what gameplay goes well with this movement mechanic. At one point, the game was going to be a multiplayer racing battle royale thing. By the end of it, they released a roguelike with mostly inconsequential items and procedurally generated levels that all feel samey and don&amp;rsquo;t scale well with super high speeds. In between we saw a lot of ideas, &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345701248497881088/Download.mp4&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345700427026403348/Download.mp4&#34;&gt;super&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=lyc4S9cP4Vg&#34;&gt;cool&lt;/a&gt; (3 links), that never made it into the final game. If you wanna see more, I invite you to hunt down old videos of Haste in Landfall&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/@LandFallGames/videos&#34;&gt;YouTube&lt;/a&gt;, &lt;a href=&#34;https://www.instagram.com/landfall_official/&#34;&gt;Instagram&lt;/a&gt;, and &lt;a href=&#34;https://www.tiktok.com/@landfallgames&#34;&gt;TikTok&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t get me wrong though, I love Haste. It is still &lt;em&gt;the best execution&lt;/em&gt; of going fast that I&amp;rsquo;ve ever seen in a video game. I just courageously believe I can do it better.&lt;/p&gt;
+&lt;p&gt;Not with this demo of course. My main idea for the proper game is to import 1:1 scale terrain data of the entire state of &lt;a href=&#34;https://www.google.com/maps/place/Queensland/@-19.1595503,145.7755994,5z&#34;&gt;Queensland, Australia&lt;/a&gt; into Godot and have the player race from the south side of that to the north (about 2000km) over the course of a few hours, reaching speeds of hundreds of metres per second and zipping through real mountain ranges. It&amp;rsquo;d be like an epic convergence of Haste and Desert Bus. I&amp;rsquo;ve never seen anyone make such a large map in Godot, the technical underdog game engine, but dammit I&amp;rsquo;ll try. I &lt;em&gt;want&lt;/em&gt; to experience this fantasy &lt;em&gt;so bad&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;If you want to try this game/demo for yourself, you can download it &lt;a href=&#34;https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA&#34;&gt;here&lt;/a&gt;. You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 5-6).&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Microphone Game Prototype</title>
+		<link>https://mat383.com/blog/microphone-game-prototype/</link>
+		<pubDate>Tue, 25 Mar 2025 15:53:35 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/microphone-game-prototype/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/now/idontlikeyourface.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 200, 0.8)&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;This is an experimental game prototype I made for a uni assignment. In this game, you attack your enemies verbally with insults.&lt;/p&gt;
+&lt;p&gt;Your words are transcribed offline with the &lt;a href=&#34;https://github.com/V-Sekai/godot-whisper&#34;&gt;Godot Whisper&lt;/a&gt; plug-in and if you say a word that &amp;ldquo;offends&amp;rdquo; the enemy, they take damage. If you don&amp;rsquo;t offend them enough, they get impatient and you lose a life.&lt;/p&gt;
+&lt;p&gt;It sounded like a fun concept to make, but the big downfall of this game is that the list of offensive words is hand-written and I haven&amp;rsquo;t thought of every single insult in existence. I tried to use AI to generate massive amounts of potentially offensive words, but it just returned words I already thought of plus incredibly specific insults that no normal person would use.&lt;/p&gt;
+&lt;p&gt;Conversely, I also found that playtesters (myself included) panic and instinctively use the same few cheap insults against every enemy (stupid, fat, ugly, dumb, etc.). I understand why, but it&amp;rsquo;s not interesting gameplay.&lt;/p&gt;
+&lt;p&gt;One obvious solution to this problem is to evaluate the offensiveness of the player&amp;rsquo;s words using AI. I experimented with this during development but only the smallest large language models were fast enough for near real-time responses. Those were woefully innaccurate, giving wildly different responses for the same inputs and sometimes rambling indefinitely. Lightweight LLM tech would have to get much better to be useful in applications like this, but ngl I&amp;rsquo;m looking forward to it.&lt;/p&gt;
+&lt;p&gt;If after all of that you still want to play this game, you can download it &lt;a href=&#34;https://mega.nz/file/TodxVJrA#hqgzlyt8QB57RuJxmetHqaDuhZDHHG5lbo8P93HLTGU&#34;&gt;here&lt;/a&gt; (Windows only though). You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 1-4).&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Learning Godot in 30 Days (gone wrong)</title>
+		<link>https://mat383.com/blog/learning-godot-in-30-days/</link>
+		<pubDate>Sat, 01 Feb 2025 12:36:12 +0000</pubDate>
+		
+		<guid>https://mat383.com/blog/learning-godot-in-30-days/</guid>
+		
+		
+		<description>&lt;h1 id=&#34;but-why&#34;&gt;But why&lt;/h1&gt;
+&lt;p&gt;As I&amp;rsquo;ve said before, I have always wanted to make games but I never had the patience to learn how to by myself. Now that the semester is over and this website is (mostly) done, I have the perfect opportunity to sit down and do this.&lt;/p&gt;
+&lt;p&gt;To fast-track this and make interesting content, I&amp;rsquo;m challenging myself to learn a game engine, specifically &lt;a href=&#34;https://godotengine.org/&#34;&gt;Godot&lt;/a&gt;, and make a decent game with it in a month. I don&amp;rsquo;t normally give myself deadlines like this, but that&amp;rsquo;s the reason I&amp;rsquo;m still learning this stuff at the age of 21 :P&lt;/p&gt;
+&lt;h1 id=&#34;my-background-so-far&#34;&gt;My background so far&lt;/h1&gt;
+&lt;p&gt;To give you some context around my current skills, here are the games I&amp;rsquo;ve made in the past.&lt;/p&gt;
+&lt;p&gt;Well&amp;hellip; the &lt;em&gt;presentable&lt;/em&gt; ones.&lt;/p&gt;
+&lt;h2 id=&#34;super-pong&#34;&gt;Super Pong&lt;/h2&gt;
+&lt;p&gt;This was a group assignment for uni. It&amp;rsquo;s a remake of pong (based off &lt;a href=&#34;https://www.youtube.com/watch?v=AcpaYq0ihaM&#34;&gt;this tutorial&lt;/a&gt;) where you can move the paddle in any direction. I didn&amp;rsquo;t write much code for this; my job was to make the art assets for it (the main menu is horrid), the particle effects, and the promotional poster. Most of the programming was done by my two other group members.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://danielpayne.itch.io/super-pong&#34;&gt;(itch.io link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/hO-UJKaijWg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;keep-away&#34;&gt;Keep Away!&lt;/h2&gt;
+&lt;p&gt;This was also an assignment, but a solo one. It&amp;rsquo;s a short platformer where you have to run away from a ghost that you can slow down by looking at it. It was also based off a &lt;a href=&#34;https://dev.epicgames.com/community/learning/courses/kna/hour-of-code-unreal-engine-build-your-first-3d-game/0b8a/hour-of-code-unreal-engine-create-your-first-3d-game&#34;&gt;tutorial&lt;/a&gt;. I wrote some code (mostly in blueprints), added some features like the ghost, music, and fall faster action, and redesigned the level. I&amp;rsquo;m sort of proud of this one, but I know I could&amp;rsquo;ve done better if I was more familiar with the engine and C&#43;&#43; programming.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mat383.itch.io/keep-away&#34;&gt;(itch.io link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ca1IwRTYVj8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;stealthcraft&#34;&gt;StealthCraft&lt;/h2&gt;
+&lt;p&gt;Not really a game, but I&amp;rsquo;m including it for old times&amp;rsquo; sake. It was a minigame realm (server) for Minecraft Bedrock. It had a long history, opening in 2019 and closing in late 2023. A lot of people worked on it, including myself. I made a lot of things for that community and I learnt a lot of my content creation skills while being there to make better things.&lt;/p&gt;
+&lt;p&gt;We shut it down because we got too ambitious and didn&amp;rsquo;t have the motivation to finish things when Minecraft Bedrock was such a shoddy platform for developers to work on. I do intend to write about StealthCraft and its&amp;rsquo; realm more in a future post.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/MYckJIZxppU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;doing-tutorials&#34;&gt;Doing tutorials&lt;/h1&gt;
+&lt;p&gt;On December 15th, I started using Godot by following their &lt;a href=&#34;https://docs.godotengine.org/en/stable/getting_started/introduction/index.html&#34;&gt;official documentation&lt;/a&gt; which has a quick start guide and two simple tutorials in it.&lt;/p&gt;
+&lt;p&gt;The introduction and step-by-step sections introduced me to some key concepts in Godot and showed me around the engine&amp;rsquo;s editor (I found the option to change the theme to green by myself &amp;gt;:D).&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-step-by-step.gif&#34; alt=&#34;A GIF of the end result of a tutorial from the Godot documentation, where a placeholder image can be moved around with the arrow keys&#34; loading=&#34;lazy&#34; height=&#34;321px&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;It had some hands-on sections, but I didn&amp;rsquo;t yet fully understand everything they talked about. That was fine though, the real tutorials were just ahead.&lt;/p&gt;
+&lt;h2 id=&#34;the-2d-one&#34;&gt;The 2D one&lt;/h2&gt;
+&lt;p&gt;The 2D tutorial was for a simple bullet-hell game where you dodge enemies and survive for as long as possible.&lt;/p&gt;
+&lt;p&gt;I finished the tutorial pretty easily. I don&amp;rsquo;t have much to say about it, other than it was pretty simple. Later, I&amp;rsquo;d like to learn more about how the sprite animations work because I feel like I&amp;rsquo;ll be using those often.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-2d-tutorial.gif&#34; alt=&#34;A GIF of the end result of the 2D game tutorial from the Godot documentation, where a player character has to avoid touching enemies&#34; loading=&#34;lazy&#34; height=&#34;322px&#34; width=&#34;600px&#34;/&gt;
+&lt;h2 id=&#34;then-the-3d-one&#34;&gt;Then the 3D one&lt;/h2&gt;
+&lt;p&gt;The 3D tutorial was for a similar bullet hell game, but in 3D and with a jump mechanic.&lt;/p&gt;
+&lt;p&gt;I finished this tutorial too. I had a bit of trouble with the player&amp;rsquo;s animation near the end, I just couldn&amp;rsquo;t make the keyframes look as smooth as in the tutorial. Other than that, it went great. Working in 3D wasn&amp;rsquo;t all that different to 2D, but I have a feeling 3D development would be harder with bigger games so I&amp;rsquo;ll stick to making 2D ones after this.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-3d-tutorial.gif&#34; alt=&#34;A GIF of the end result of the 3D game tutorial from the Godot documentation, where a player character has to avoid touching enemies and can jump on them&#34; loading=&#34;lazy&#34; height=&#34;322px&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;After finishing all the official tutorials, I had all of five days left to make my own game. That&amp;rsquo;s right. Because I started this project in the middle of December, I spent a lot of time with my family and procrastinated away the little morsels of time I had left.&lt;/p&gt;
+&lt;h1 id=&#34;making-my-own-game&#34;&gt;Making my own game&lt;/h1&gt;
+&lt;p&gt;With only five days to work with, I figured I should make a platformer as my first game. It&amp;rsquo;s the typical beginner thing to do.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;On day 1&lt;/strong&gt;, I made a new project and tried to make a character and platforms by smacking nodes together. I figured out what nodes to use from the 2D tutorial I finished earlier and some other tutorial online. I gave the player and platforms placeholder textures, then gave the player movement logic by just giving it the default character script template Godot provides.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-1.gif&#34; alt=&#34;A GIF of a green player character jumping around on platforms with placeholder textures&#34; loading=&#34;lazy&#34; height=&#34;345px&#34; width=&#34;580px&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;On day 2&lt;/strong&gt;, I learnt how to use make and use a tilemap from the Godot documentation and replaced the platforms with proper terrain.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-2.gif&#34; alt=&#34;A GIF of a tilemap being laid out in the Godot editor&#34; loading=&#34;lazy&#34; height=&#34;324&#34; width=&#34;500&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;Day 3&lt;/strong&gt;, I added an angry enemy that walks left and right, bouncing off walls. I made this by copying the player script, removing the input logic, and figuring out how to make the enemy flip it&amp;rsquo;s rotation when it collides with something. It also bounces off the player because I didn&amp;rsquo;t get around to making game over logic.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/learning-godot-in-30-days/godot-day-3.gif&#34; alt=&#34;A GIF of a green player character running and jumping around an enemy NPC&#34; loading=&#34;lazy&#34; height=&#34;285&#34; width=&#34;362&#34;/&gt;
+&lt;p&gt;I skipped &lt;strong&gt;day 4&lt;/strong&gt; because I was busy that day.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;And on day 5&lt;/strong&gt;, I let the player bounce on top of the enemies and added a finish flag. Going to the finish flag takes away your controls, puts up a victory screen, and makes the player do small jumps forever. The game &lt;em&gt;technically&lt;/em&gt; has an ending now.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/learning-godot-in-30-days/platformer-haha.mp4&#34; controls preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s the whole game.&lt;/p&gt;
+&lt;p&gt;Not too proud of it, but it was fun and satisfying to make a game by myself even if the end result is&amp;hellip; that.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s obvious what went wrong, I botched several weeks of my time and still only spent a couple hours a day on making the game after that. It was also my first time making content in years, so I was doing all this &lt;em&gt;while&lt;/em&gt; recording it &lt;em&gt;and&lt;/em&gt; writing a &lt;a href=&#34;https://www.youtube.com/watch?v=-yiM-IhRL6A&#34;&gt;video&lt;/a&gt; script &lt;em&gt;and&lt;/em&gt; this blog post. I&amp;rsquo;ll have to learn to doom-scroll less and better manage those different tasks.&lt;/p&gt;
+&lt;h1 id=&#34;downloads&#34;&gt;Downloads&lt;/h1&gt;
+&lt;p&gt;You can download Windows and Linux builds of this game from &lt;a href=&#34;https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA&#34;&gt;here&lt;/a&gt;. It should work for everyone because it works on my machine ;)&lt;/p&gt;
+&lt;p&gt;Thanks so much for reading this! In my next post, I will be improving this skeleton of a game and trying to finish it.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Holiday Pictures from Cairns</title>
+		<link>https://mat383.com/blog/cairns-holiday-pics/</link>
+		<pubDate>Wed, 21 Aug 2024 05:54:00 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/cairns-holiday-pics/</guid>
+		
+		
+		<description>&lt;h2 id=&#34;so-basically&#34;&gt;So basically&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;I went to Cairns (in Australia) with my family recently and I want to share some of my favourite pictures.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I compressed all of the pictures and videos a bit because there were so many of them. I&amp;rsquo;ve left higher resolution files &lt;a href=&#34;https://mega.nz/folder/2ngygZgA#X-waMdcwdM10r8YcVXLu3Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;drone-shots&#34;&gt;Drone shots&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll show these first to grab your attention.&lt;/p&gt;
+&lt;p&gt;So we were walking along the beach at Palm Cove and I saw that the tide was pretty low that afternoon. It was so low that I could see land between the two islands in the ocean, Double Island and Haycock Island.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/double-island-haycock-reef.jpg&#34; alt=&#34;A picture of Double Island and Haycock Island, with Haycock Reef just barely visible&#34; loading=&#34;lazy&#34; height=&#34;418&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/haycock-reef-google-earth.jpg&#34; alt=&#34;Screenshot from Google Earth showing Palm Cove and Double Island&#34; loading=&#34;lazy&#34; height=&#34;389&#34; width=&#34;700px&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;Google Earth screenshot for perspective&lt;/span&gt;
+&lt;p&gt;I was curious what that looked like from above and if it was now possible to walk from one of the islands to the other. Google Earth didn&amp;rsquo;t have imagery taken during low tide, so I hurried back home and picked up my drone so I could find out myself.&lt;/p&gt;
+&lt;p&gt;I flew it from the beach towards the island until we could just barely see the drone, then I took some photos, videos, and a panorama.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/haycock-reef.jpg&#34; alt=&#34;A picture of Double Island, Haycock Island, and Haycock Reef from a drone perspective&#34; loading=&#34;lazy&#34; height=&#34;600px&#34; width=&#34;800px&#34;/&gt;
+&lt;p&gt;It seemed like the two islands were still separate, but it was damn cool to see that through my own pictures.&lt;/p&gt;
+&lt;iframe class=&#34;pannellum&#34; allowfullscreen style=&#34;border-style:none; display:block;&#34; src=&#34;https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https://mat383.com/images/cairns-holiday-photos/palm-cove-panorama.jpg&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;I probably could&amp;rsquo;ve gotten closer to the islands if I took off from further down the beach, near the jetty.&lt;/p&gt;
+&lt;p&gt;Below is a screenshot of the flight log, the flight path is in blue and I think the green circle is the distance limit that&amp;rsquo;s hard-coded into the drone. I didn&amp;rsquo;t end up going that far from land actually.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/palm-cove-flight-path.png&#34; alt=&#34;A screenshot showing the flight path of a drone flight in Palm Cove&#34; loading=&#34;lazy&#34; height=&#34;360px&#34; width=&#34;800px&#34;/&gt;
+&lt;h1 id=&#34;green-stuff-on-the-rocks-at-the-beach&#34;&gt;Green stuff on the rocks at the beach&lt;/h1&gt;
+&lt;p&gt;When we were up at Port Douglas, the family stopped at a playground as they were fatigued from all our wandering around town. I, however, had no need for rest. I wanted to occupy myself, but I was too mature for the playground there; I am a very serious and grown-up adult now.&lt;/p&gt;
+&lt;p&gt;In the distance, I saw a bunch of green rocks on the beach.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-1.jpg&#34; alt=&#34;Rocks covered with seaweed on the beach&#34; loading=&#34;lazy&#34; height=&#34;470px&#34; width=&#34;800px&#34;/&gt;
+&lt;p&gt;&amp;ldquo;Now that doesn&amp;rsquo;t make any sense&amp;rdquo;, I thought. That looks like moss, but moss normally grows in moist and shady places, not on sunny shores.&lt;/p&gt;
+&lt;p&gt;As I cautiously approached the weird moss, I realised that it wasn&amp;rsquo;t actually moss &lt;em&gt;(gasp)&lt;/em&gt;.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-2.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; loading=&#34;lazy&#34; height=&#34;525&#34; width=&#34;700px&#34;/&gt;
+&lt;p&gt;It was actually seaweed!&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-3.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; loading=&#34;lazy&#34; height=&#34;450&#34; width=&#34;600px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-4.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; loading=&#34;lazy&#34; height=&#34;714&#34; width=&#34;600px&#34;/&gt;
+&lt;p&gt;Well of course it was seaweed, I was on a beach. I don&amp;rsquo;t know why that surprised me&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s another picture.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/seaweed-on-rocks-5.jpg&#34; alt=&#34;Closeup of rocks covered with seaweed on the beach&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;h1 id=&#34;woah-clouds-look-like-that-now&#34;&gt;Woah clouds look like that now&lt;/h1&gt;
+&lt;p&gt;My sister wanted to go out for an early morning walk with me once, at 6am or something like that. Her goal was to see the sunrise from the beach.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t normally get out of bed that early, let alone step foot outside the house, but I said sure. Just this once, since we&amp;rsquo;ve come all the way to Cairns.&lt;/p&gt;
+&lt;p&gt;As soon as we got to Palm Cove Beach, I noticed that the horizon looked strange.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-2.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-1.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;p&gt;It was as if the distant mountains that we saw during the day extended to cover the entire horizon.&lt;/p&gt;
+&lt;p&gt;I blinked twice, then realised those were actually just low clouds in front of the soon-to-rise sun. Because I never go for walks this early on the beach, this was the first time I&amp;rsquo;ve ever seen something like this. It was beautiful.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/cairns-holiday-photos/clouds-sunrise.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;For a brief few minutes, there was also a small hole in the clouds right in front of the rising sun. It looked like a magic door thing.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-4.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; loading=&#34;lazy&#34; height=&#34;312&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-5.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; loading=&#34;lazy&#34; height=&#34;525&#34; width=&#34;700px&#34;/&gt;
+&lt;p&gt;We both sat down next to the jetty and waited for the sun to rise. It didn&amp;rsquo;t take long, but I enjoyed the little time we spent waiting. Sitting there in front of the waves on a chilly and bright morning had very peaceful vibes.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-6.jpg&#34; alt=&#34;A sunrise on the beach&#34; loading=&#34;lazy&#34; height=&#34;525&#34; width=&#34;700px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-7.jpg&#34; alt=&#34;A sunrise on the beach&#34; loading=&#34;lazy&#34; height=&#34;525&#34; width=&#34;700px&#34;/&gt;
+&lt;p&gt;After the sunrise, the clouds that detailed the horizon faded away and only the mountains remained. I&amp;rsquo;m super glad to have experienced that view. Thanks, sis.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/clouds-8.jpg&#34; alt=&#34;Clouds covering a sunrise&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;h1 id=&#34;bird-world&#34;&gt;Bird world&lt;/h1&gt;
+&lt;p&gt;There was a bird world at Kuranda called Birdworld Kuranda and we went there.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have much to say about this one, but it was very cool. I&amp;rsquo;ve been to a few of these bird sanctuary places before and this one was definitely up there.&lt;/p&gt;
+&lt;p&gt;I think the same company that runs this attraction also owns the butterfly sanctuary next-door. That&amp;rsquo;s also a very cool place. I&amp;rsquo;d say both of them are worth a visit.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld.jpg&#34; alt=&#34;Scenic view of Kuranda Birdworld&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-birds-1.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; loading=&#34;lazy&#34; height=&#34;403&#34; width=&#34;700px&#34;/&gt;
+&lt;p&gt;If you were to go here, I&amp;rsquo;d highly recommend you buy a bag of bird feed for $3 from the counter. Before we did, the birds didn&amp;rsquo;t care about our presence &lt;strong&gt;at all&lt;/strong&gt;. The Birdworld Kuranda experience is completely different if they notice you have food. They&amp;rsquo;ll be all over you.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-green-bird.jpg&#34; alt=&#34;A green parrot (I think)&#34; loading=&#34;lazy&#34; height=&#34;&#34; width=&#34;700px&#34;/&gt;
+&lt;p&gt;There was also this lone turtle in the water below.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/birdworld-turtle.jpg&#34; alt=&#34;Birds in a tree in Kuranda Birdworld&#34; loading=&#34;lazy&#34; height=&#34;542&#34; width=&#34;700px&#34;/&gt;
+&lt;br&gt;
+&lt;video src=&#34;https://mat383.com/videos/cairns-holiday-photos/birdworld-turtle.mp4&#34; controls  preload=&#34;metadata&#34;&gt;&lt;/video&gt;
+&lt;p&gt;I felt kind of bad for them. They were the slowest animal in the whole sanctuary and probably the only one that couldn&amp;rsquo;t fly ;(&lt;/p&gt;
+&lt;h1 id=&#34;assorted-pics&#34;&gt;Assorted pics&lt;/h1&gt;
+&lt;p&gt;I don&amp;rsquo;t have any cool stories for the rest of these images, but I found them neat.&lt;/p&gt;
+&lt;h2 id=&#34;beaches&#34;&gt;Beaches&lt;/h2&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-3.jpg&#34; alt=&#34;A flat beach with puddles of water&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-4.jpg&#34; alt=&#34;A beach with marks in the sand&#34; loading=&#34;lazy&#34; height=&#34;601&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-5.jpg&#34; alt=&#34;A low shot of a beach with marks in the sand&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-6.jpg&#34; alt=&#34;A low shot of water on the beach&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/beach-7.jpg&#34; alt=&#34;A low shot of a log on the beach&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;h2 id=&#34;greenery&#34;&gt;Greenery&lt;/h2&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/greenery-1.jpg&#34; alt=&#34;A picture of a path in a forest&#34; loading=&#34;lazy&#34; height=&#34;800&#34; width=&#34;600px&#34;/&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/cairns-holiday-photos/greenery-2.jpg&#34; alt=&#34;A picture of a path in a forest&#34; loading=&#34;lazy&#34; height=&#34;600&#34; width=&#34;800px&#34;/&gt;
+&lt;p&gt;Crikey this post is long. I&amp;rsquo;ll end it here, but there&amp;rsquo;s more pictures &lt;a href=&#34;https://mega.nz/folder/2ngygZgA#X-waMdcwdM10r8YcVXLu3Q&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;here&lt;/a&gt; if you liked the ones above.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Building this website</title>
+		<link>https://mat383.com/blog/building-this-website/</link>
+		<pubDate>Sat, 03 Aug 2024 04:23:38 +1000</pubDate>
+		
+		<guid>https://mat383.com/blog/building-this-website/</guid>
+		
+		
+		<description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;TLDR:&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;I wanted to get into game development and have a website with a shiny custom domain to blog on. I built it with Hugo and it&amp;rsquo;s being hosted on Cloudflare Pages with a Cloudflare domain.&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-why&#34;&gt;The why&lt;/h1&gt;
+&lt;p&gt;So just like the next guy, I&amp;rsquo;ve always had an interest in creating games, programming, and making cool stuff. I just never had the motivation or patience to learn to do those things to a standard that I could be proud of.&lt;/p&gt;
+&lt;p&gt;About two years ago, I was inspired by some great story-based games I played at the time and had an idea for a game. No, it was more of a hazy vision. It was an ambitious story-based game of my own that I knew I had to make. The thought of playing that game and sharing it with the world captivated me. I started making notes of ideas I had relating to this game and was obsessively thinking about it for months.&lt;/p&gt;
+&lt;p&gt;But eventually, I came to the realization that this project was way too ambitious for me to do in a couple short years, especially with my lack of experience with proper game development.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;ll go get some!&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Everyone in the indie game dev community says it&amp;rsquo;s a common mistake for newbies to make their big dream game the first project they work on. They also say you should have an online presence &lt;em&gt;while&lt;/em&gt; making your games, otherwise you&amp;rsquo;ll be swallowed by the sea of everyone else&amp;rsquo;s indie games. Those both sounded like valid bits of advice so I thought I should spin up a website, start making small games, and document their development online.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Why a website though? Can&amp;rsquo;t you just make a YouTube channel like everyone else does?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Because I&amp;rsquo;ve gotten tired of editing videos. I also didn&amp;rsquo;t find much interest in other people&amp;rsquo;s dev logs on the platform at the time. Writing text-form posts on a website also sounded like a way more convenient way of sharing updates. However, I admit that it would be nigh impossible to get new eyeballs on me without a presence on YouTube, so I will make some posts into videos when I get a good editing workflow going.&lt;/p&gt;
+&lt;h1 id=&#34;early-attempts-bad&#34;&gt;Early attempts (bad)&lt;/h1&gt;
+&lt;p&gt;I started building the website when my ambition greatly outweighed my rusty HTML/CSS skills, Like, massively.&lt;/p&gt;
+&lt;p&gt;I whipped up this concept in Photoshop. The idea was that the entire website would be themed to resemble the profile picture I use everywhere. Heaps of slow-moving PNGs of soft green circles would make up the background and everything would have graceful animations. It was a neat idea, but if you&amp;rsquo;re familiar with the concept of colour banding and why it ruins gradients, you&amp;rsquo;d know why this would&amp;rsquo;ve been horrible in practice.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/old-mat383-website-concept.jpg&#34; alt=&#34;A very old concept of mat383.com&#34; width=&#34;550&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;graphic design is my passion&lt;/span&gt;
+&lt;p&gt;Then I tried to make that website myself. I never built an entire website before though so I jumped head first into writing static HTML by hand, giving zero thought to how the blog will actually blog.&lt;/p&gt;
+&lt;p&gt;Yeah don&amp;rsquo;t do that.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/old-mat383-website-prototype.png&#34; alt=&#34;A very old prototype of mat383.com&#34; width=&#34;750&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;Well, there&#39;s some resemblance&lt;/span&gt;
+&lt;p&gt;I even tried making that cool animated background I was talking about. I didn&amp;rsquo;t know any Javascript at the time though so I called upon ChatGPT to do it all for me. We really tried, there was a lot of back and forth. The furthest we got is spreading a bunch of PNGs across the screen.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/old-mat383-website-bg-prototype.jpg&#34; alt=&#34;An old work-in-progress background for mat383.com&#34; width=&#34;750&#34;/&gt;
+&lt;p&gt;You can download these scuffed prototypes &lt;a href=&#34;https://mat383.com/files/mat383.com-prototypes.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I came to my senses after all that and stopped trying to make the website like this. I think I dropped the project for about half a year after that.&lt;/p&gt;
+&lt;h1 id=&#34;whats-a-web-framework&#34;&gt;What&amp;rsquo;s a web framework??&lt;/h1&gt;
+&lt;p&gt;A while later, I started over from scratch. This time, I&amp;rsquo;d make the website&amp;rsquo;s backend before the front-end. I did some research on how I could make a blog with Python, the language I was the least inexperienced with. Django seemed like a pretty popular pick, so I looked up some tutorials on how I could do that.&lt;/p&gt;
+&lt;p&gt;I went through several tutorials but they were all so fast that I didn&amp;rsquo;t understand what the code I was copying did.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/old-mat383-website-prototype-2.png&#34; alt=&#34;An old prototype of mat383.com&#34; width=&#34;650&#34;/&gt;
+&lt;p&gt;I&amp;rsquo;m not giving download links for these, I&amp;rsquo;m pretty sure I put my personal password in one of their databases.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;I gave up again for a while, then I stumbled upon &lt;a href=&#34;https://landchad.net&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;landchad.net&lt;/a&gt;, a website that has a simple tutorial on how to set up a very basic web server. I decided to follow it and bought the domain &lt;a href=&#34;https://mat383.com/&#34;&gt;mat383.com&lt;/a&gt; from Cloudflare and rented a VPS from Vultr. I bought the domain from Cloudflare because I was convinced they had the cheapest prices and least amount of upselling BS (it was honestly impressive after browsing the sites of other domain name registrars). I chose Vultr for my hosting because that&amp;rsquo;s what the website recommended, but I&amp;rsquo;d advise against using them now (their support is bad, but more on that later).&lt;/p&gt;
+&lt;p&gt;After doing their tutorial, I had my very own website!&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/barebones-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;500&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;It IS a website...&lt;/span&gt;
+&lt;p&gt;It was only three lines of text, but I had a web server running with a domain. That was cool.&lt;/p&gt;
+&lt;p&gt;I wanted to try using Django again, but properly. &lt;a href=&#34;https://www.youtube.com/playlist?list=PLlM3i4cwc8zBRQOGXuLrCLNfpVOuVLuwZ&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;This course&lt;/a&gt; on YouTube was very thorough, way more thorough than the other tutorials I did in the past, but I also had a lot of issues with it. Sometimes they would skip over small details or my configuration would be different to theirs so I spent way more time troubleshooting than following their instructions. It took me almost a month to complete the roughly hour-long course, as I got tired from troubleshooting and took breaks.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/simple-mat383-website.png&#34; alt=&#34;Barebones mat383.com&#34; width=&#34;600&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;Not much changed&lt;/span&gt;
+&lt;p&gt;Then I remembered that course was only for setting up the production workflow of a Django website, I still had to make the website after all that!&lt;/p&gt;
+&lt;h1 id=&#34;enter-hugo&#34;&gt;Enter Hugo&lt;/h1&gt;
+&lt;p&gt;Just as I was about to embark on a quest to finally learn Django again, I learnt about the existence of &lt;em style=&#34;font-family:serif; font-weight: bold;&#34;&gt;static site generators&lt;/em&gt;. They are tools that let you build entire static websites using a bunch of well-formatted templates and content files. Since they&amp;rsquo;re static and lightweight, some places like Github and Cloudflare will even let you host them for free! The lack of a backend makes static websites much faster than typical dynamic websites, but they also can&amp;rsquo;t have any server-side logic.&lt;/p&gt;
+&lt;p&gt;I chose Hugo as my static site generator as I&amp;rsquo;ve heard of it before and it didn&amp;rsquo;t seem to hard to learn. Setting it up was much simpler than all the stuff I did with Django. I watched &lt;a href=&#34;https://www.youtube.com/watch?v=ZFL09qhKi5I&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;this YouTube video&lt;/a&gt; that explained the basics of Hugo and provided &lt;a href=&#34;https://github.com/LukeSmithxyz/lugo&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;a basic theme&lt;/a&gt; for me to use. I modified the theme, some of the templates, and the CSS until I was happy how it functioned and looked.&lt;/p&gt;
+&lt;img src=&#34;https://mat383.com/images/recent-ish-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo&#34; width=&#34;700&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;An earlier version of this site built with Hugo&lt;/span&gt;
+&lt;br&gt;
+&lt;img src=&#34;https://mat383.com/images/almost-done-mat383-website.png&#34; alt=&#34;mat383.com built with Hugo, almost finished&#34; width=&#34;700&#34;/&gt;
+&lt;span class=&#34;figcaption&#34;&gt;The home page at the time of writing&lt;/span&gt;
+&lt;p&gt;It&amp;rsquo;s not completely finished yet, but I&amp;rsquo;m quite happy with this website.&lt;/p&gt;
+&lt;p&gt;I also moved my website off Vultr and onto Cloudflare Pages. I won&amp;rsquo;t have to worry about forgetting to pay for hosting there because it&amp;rsquo;s free.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EDIT:&lt;/strong&gt; I&amp;rsquo;m going to be moving away from Cloudflare entirely soon. While I don&amp;rsquo;t consider myself a privacy enthusiast (you shouldn&amp;rsquo;t need to be an &amp;ldquo;enthusiast&amp;rdquo; to care about your privacy), I want to respect those who do.&lt;/p&gt;
+&lt;h1 id=&#34;ok-what-now&#34;&gt;Ok, what now?&lt;/h1&gt;
+&lt;p&gt;Before I start developing games, I want to polish up this website and add a couple features. Adding comment support to this website is my number one priority right now, I wasn&amp;rsquo;t able to finish it in time (I just &lt;em&gt;had&lt;/em&gt; to write this post on the third day of the eighth month).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d also like to join a couple website collections and webrings. I specifically designed this website to be very lightweight so I can get into the &lt;a href=&#34;https://512kb.club/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;512KB Club&lt;/a&gt;. You see, I grew up using a terrible internet connection (5Mbps down, 1Mbps up) with a low-end laptop. I understand why making lightweight software is important. The homepage of my website currently weighs in at about &lt;strong&gt;40KB&lt;/strong&gt;, so I should be able to get into the &lt;em class=&#34;green&#34;&gt;Green Team&lt;/em&gt; of the 512KB Club and I can put a neat little green badge in the footer. &lt;em&gt;Yippeeee!!&lt;/em&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>

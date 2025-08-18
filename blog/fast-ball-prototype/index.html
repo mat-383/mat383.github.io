@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: #121212; color: #ccc;">
+<head>
+	<title>Fast Ball Prototype - mat383.com</title>
+	<link rel="canonical" href="https://mat383.com/">
+	<link rel='alternate' type='application/rss+xml' title="mat383.com RSS" href='/index.xml'>
+
+	
+	<link rel="stylesheet" href="https://mat383.com/style.min.css">
+	
+	<link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<meta name="description" content="This is the second level of an experimental game prototype I made for a uni assignment. It&rsquo;s a game where you are a ball and can hold a button to fall faster. You get faster by falling down onto slopes quickly.
+The game (more of a demo, actually) has three levels that you swap between by pressing 1-3 keys on your keyboard. They&rsquo;re all small challenge levels made to test what gameplay is fun with this movement mechanic.">
+	
+	<meta name="keywords" content="game dev">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta name="darkreader-lock">
+	<meta charset="utf-8">
+
+	<link rel="me" href="https://github.com/mat-383"/>
+</head>
+<div class="balls-bg"></div>
+
+
+
+<nav class="navbar">
+	<div class="navbarcontent">
+		<a href="/" class="homelink h-card" rel="me" style="color:#ccc">
+			<style>.navbarm{fill:transparent}</style>
+			<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1348 1100" preserveAspectRatio="xMinYMin meet" style="width: 100%; height: 100%; max-height:65px; max-width:70px;"><path class="navbarm" d="m118 999l78-897h363l124 560 183-560h369l-23 897h-244l20-640-211 640h-241l-144-640-42 640z"/></svg>
+		</a>
+		<div class="otherlinks"> 
+			<a href="/blog" style="color:#ccc" class="navlink activepage">Blog</a>
+			<a href="/now" style="color:#ccc" class="navlink ">Now</a>
+			
+			<a href="/about" style="color:#ccc" class="navlink ">About</a>
+		</div>
+	</div>
+</nav>
+<script>0</script>
+<noscript><style>body { visibility: visible; }</style></noscript>
+<main>
+
+
+<div class="contentbg float-in">
+
+	<header class="headersmallpost ">
+		
+			<div class="coverimgcontainer">
+				<div class="coverimgcontainer2">
+					<div class="coverimg">
+						<picture>
+							<source srcset="/images/covers/fast-ball-prototype.avif" type="image/avif">
+							<img src="fast-ball-prototype.jpg" width="800" height="400">
+						</picture>
+					</div>
+				</div>
+			</div>
+		<div class="posttags"><p>Tags: <a class="tag
+        
+        
+        taggamedev
+    " style="display:inline-block;"id="tag_game dev" href="https://mat383.com/tags/game-dev">Game Dev</a></p></div><h1 id="tag_Fast Ball Prototype" class="pagetitle">Fast Ball Prototype</h1>
+		
+		<p class="datewritten "><time>Date posted: 10 Apr. 2025</time></p>
+	</header>
+
+
+
+
+
+
+
+
+<p><video src="/videos/now/haste balls level 2.mp4" controls  preload="metadata" style="box-shadow:0px 0px 35px rgba(150, 255, 150, 0.5)"></video></p>
+<br>
+<p>This is the second level of an experimental game prototype I made for a uni assignment. It&rsquo;s a game where you are a ball and can hold a button to fall faster. You get faster by falling down onto slopes quickly.</p>
+<p>The game (more of a demo, actually) has three levels that you swap between by pressing 1-3 keys on your keyboard. They&rsquo;re all small challenge levels made to test what gameplay is fun with this movement mechanic.</p>
+<p>This is completely inspired by <a href="https://store.steampowered.com/app/1796470/HASTE_Broken_Worlds/">Haste</a>, an incredible game built around the same core mechanic.</p>
+<p>To be honest, I had super high hopes going into that game. I followed the development of Haste closely, watching all the teasers and sneak peaks Landfall (the devs) posted. From what I saw anyway, they experimented a lot with what gameplay goes well with this movement mechanic. At one point, the game was going to be a multiplayer racing battle royale thing. By the end of it, they released a roguelike with mostly inconsequential items and procedurally generated levels that all feel samey and don&rsquo;t scale well with super high speeds. In between we saw a lot of ideas, <a href="https://cdn.discordapp.com/attachments/1343614236798222338/1345701248497881088/Download.mp4">some</a> <a href="https://cdn.discordapp.com/attachments/1343614236798222338/1345700427026403348/Download.mp4">super</a> <a href="https://www.youtube.com/watch?v=lyc4S9cP4Vg">cool</a> (3 links), that never made it into the final game. If you wanna see more, I invite you to hunt down old videos of Haste in Landfall&rsquo;s <a href="https://www.youtube.com/@LandFallGames/videos">YouTube</a>, <a href="https://www.instagram.com/landfall_official/">Instagram</a>, and <a href="https://www.tiktok.com/@landfallgames">TikTok</a>.</p>
+<p>Don&rsquo;t get me wrong though, I love Haste. It is still <em>the best execution</em> of going fast that I&rsquo;ve ever seen in a video game. I just courageously believe I can do it better.</p>
+<p>Not with this demo of course. My main idea for the proper game is to import 1:1 scale terrain data of the entire state of <a href="https://www.google.com/maps/place/Queensland/@-19.1595503,145.7755994,5z">Queensland, Australia</a> into Godot and have the player race from the south side of that to the north (about 2000km) over the course of a few hours, reaching speeds of hundreds of metres per second and zipping through real mountain ranges. It&rsquo;d be like an epic convergence of Haste and Desert Bus. I&rsquo;ve never seen anyone make such a large map in Godot, the technical underdog game engine, but dammit I&rsquo;ll try. I <em>want</em> to experience this fantasy <em>so bad</em>.</p>
+<p>If you want to try this game/demo for yourself, you can download it <a href="https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA">here</a>. You can also find my full dev journal for this game <a href="https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa">here</a> (in weeks 5-6).</p>
+
+
+
+
+
+	
+	<div class="custombuttoncontainer" style="margin: 0 auto;" id="commentSection">
+    <a>
+        <button id="loadComments" class="custombutton _1" style="--color:rgb(0, 180, 0); --paddingx:13px; --paddingy:18px">
+            <p>Load Comments</p><img class="custombuttonicon" src="/icons/comments-green.png" alt="Load Comments" style="height:2.25em; width: auto;">
+        </button>
+        <button class="custombutton _2" style="--color:rgb(0, 180, 0); --paddingx:13px; --paddingy:18px">
+            <p>Load Comments</p><img class="custombuttonicon" src="/icons/comments-green.png" alt="Load Comments" style="height:2.25em; width: auto;">
+        </button>
+    </a>
+</div>
+
+
+<div id="remark42" class="remark42"></div>
+
+
+<script>
+	
+	var remark_config = {
+		host: 'https://remark42.mat383.com',
+		site_id: 'remark',
+		theme: 'dark',
+		show_email_subscription: false,
+		show_rss_subscription: true,
+	};
+	
+	function loadRemark42() {
+		if (window.location.protocol !== 'https:') {
+			document.getElementById('commentSection').innerHTML = '<p style="color: #ff5b5b;">Please use HTTPS to view comments.</p>';
+			return;
+		}
+		
+		var components = remark_config.components || ["embed"];
+		var head = document.head || document.body;
+		
+		for (var i = 0; i < components.length; i++) {
+			var script = document.createElement("script");
+			var extension = ".js";
+			
+			
+			if ("noModule" in script) {
+				script.type = "module";
+				extension = ".mjs";
+			}
+			
+			script.async = true;
+			script.defer = true;
+			script.src = remark_config.host + "/web/" + components[i] + extension;
+			head.appendChild(script);
+
+			
+			setTimeout(function() { 
+				var loadCommentsButton = document.getElementById('loadComments');
+				loadCommentsButton.parentNode.removeChild(loadCommentsButton);
+			}, 200);
+		}
+	}
+	
+	document.getElementById('loadComments').addEventListener('click', function() {
+		loadRemark42();
+	});
+
+</script>
+
+
+
+	<script>
+		const options = {
+			root: null, 
+			rootMargin: '0px', 
+			threshold: 0.1 
+		};
+		
+		const observer = new IntersectionObserver((entries) => {
+			entries.forEach(entry => {
+				if (entry.isIntersecting) {
+					loadRemark42();
+					observer.disconnect(); 
+				}
+			});
+		}, options);
+		
+		
+		observer.observe(document.getElementById('commentSection'));
+	</script>
+
+
+</main>
+
+<footer>
+	
+	<br>
+	<br>
+
+	<br>
+
+	<div class="footerbadges">
+		<a href="https://mat383.com/fanclub" class="sizeanimation"><img src="/badges/fanclub.gif" alt="Mat383 Fanclub!!" class="badgesize1"></a>
+		<a href="https://512kb.club/" class="sizeanimation"><img src="/badges/green-team.gif" alt="The 512KB Club" class="badgesize1"></a>
+		<a href="https://wiby.me/" class="sizeanimation"><img src="/badges/wiby.png" alt="Wiby, the classic search engine" class="badgesize1"></a>
+		<a href="https://myfavouritewebsite.com/" class="sizeanimation"><img src="/badges/myfavouritewebsite.png" alt="My favourite website" class="badgesize1"></a>
+		<br>
+		<a href="http://250kb.club/" class="sizeanimation"><img src="/badges/250kb-club.png" alt="The 250KB Club", style="width:160px; height: 24px;"></a>
+	</div>
+
+	<p class="footerhover">Made with <a href="https://gohugo.io/">Hugo</a> | <a href="https://github.com/mat-383/blog">Source code</a></p>
+</footer>
+
+
+
+</div>
+
+
+</body>
+</html>
+
