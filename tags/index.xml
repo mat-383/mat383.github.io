@@ -6,10 +6,46 @@
 	<ttl>60</ttl>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Sat, 16 Aug 2025 15:53:35 +1000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 07:24:15 +0000</lastBuildDate>
     
         <atom:link href="https://mat383.com/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>My first game jam was in-person!</title>
+		<link>https://mat383.com/blog/my-first-gamejam/</link>
+		<pubDate>Tue, 18 Nov 2025 07:24:15 +0000</pubDate>
+		
+		<guid>https://mat383.com/blog/my-first-gamejam/</guid>
+		
+		
+		<description>&lt;p&gt;About half a year ago in March, I was invited to a game jam hosted by Screen Queensland as part of their &lt;a href=&#34;https://screenqueensland.com.au/sq-news/past-events/season-of-the-dev/&#34;&gt;Season of The Dev&lt;/a&gt; series of events.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This blog post is a brief summary of the jam&amp;rsquo;s outcome. Please watch the YouTube video for a more detailed telling of the event.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This game jam was special, as it was a local event. It took place in a bungalow park in the Sunshine Coast and all attendees had to pay a $20 entry fee. In return, we got three days (two nights) of accommodation, food, and an entire venue for ourselves to develop games in. Sweet deal.&lt;/p&gt;
+
+&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:600px;&#34;&gt;
+		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/my-first-gamejam/bungalow.jpg&#34; loading=&#34;lazy&#34;&gt;
+		
+	&lt;/div&gt;&lt;figcaption class=&#34;figcaption&#34; style=&#34;margin-top:-18px;&#34;&gt;Our 4-bedroom bungalows&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+&lt;figure style=&#34;margin:0;&#34;&gt;&lt;div class=&#34;blurimgcontainer&#34; style=&#34;width:auto;max-width:600px;&#34;&gt;
+		&lt;img class=&#34;blurimg _1&#34; src=&#34;https://mat383.com/images/my-first-gamejam/lunch.jpg&#34; loading=&#34;lazy&#34;&gt;
+		
+	&lt;/div&gt;&lt;figcaption class=&#34;figcaption&#34; style=&#34;margin-top:-18px;&#34;&gt;You could say the chefs were cooking&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h1 id=&#34;our-game&#34;&gt;Our game&lt;/h1&gt;
+&lt;p&gt;I was teamed up with three other people: Jess (programmer), Rohan (artist/musician), and Carlos (artist). I played the role of a second programmer.&lt;/p&gt;
+&lt;p&gt;We had 48 hours to make a game after being given the theme words &amp;ldquo;astonishing&amp;rdquo;, &amp;ldquo;beach&amp;rdquo;, and &amp;ldquo;connection&amp;rdquo;. To that, we made Puppy Love.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s an infinitely-scrolling (not actually) game where you are a dog being walked on a beach. Your goal is to pull your owner around to pick up good objects, avoid bad obstacles, and socialise with other dog walkers. The premise is inspired by the movie 101 Dalmatians.&lt;/p&gt;
+&lt;p&gt;&lt;video src=&#34;https://mat383.com/videos/my-first-gamejam/puppy_love.mp4&#34; controls  preload=&#34;metadata&#34; style=&#34;box-shadow:0px 0px 35px rgba(200, 200, 255, 0.8); width:650px; margin:40px;&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;p&gt;But it&amp;rsquo;s really buggy and hard to understand.&lt;/p&gt;
+&lt;p&gt;Our code was such a mess that bugs were popping up everywhere and we couldn&amp;rsquo;t fix them. We spent a lot of time trying, but that didn&amp;rsquo;t leave us enough time to finish the game or even test if it was fun. The biggest offenders were the terrain generation system and the physics around the player movement.&lt;/p&gt;
+&lt;p&gt;We obviously didn&amp;rsquo;t win. I don&amp;rsquo;t think it&amp;rsquo;d be a stretch to say that we made the worst game in the entire event. But it was our team&amp;rsquo;s first game jam, and at least we showed up.&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;And again, $20 for accommodation and food. Holy crap.&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Drive Ahead Prototype</title>
@@ -102,7 +138,7 @@
 &lt;p&gt;To be honest, I had super high hopes going into that game. I followed the development of Haste closely, watching all the teasers and sneak peaks Landfall (the devs) posted. From what I saw anyway, they experimented a lot with what gameplay goes well with this movement mechanic. At one point, the game was going to be a multiplayer racing battle royale thing. By the end of it, they released a roguelike with mostly inconsequential items and procedurally generated levels that all feel samey and don&amp;rsquo;t scale well with super high speeds. In between we saw a lot of ideas, &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345701248497881088/Download.mp4&#34;&gt;some&lt;/a&gt; &lt;a href=&#34;https://cdn.discordapp.com/attachments/1343614236798222338/1345700427026403348/Download.mp4&#34;&gt;super&lt;/a&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=lyc4S9cP4Vg&#34;&gt;cool&lt;/a&gt; (3 links), that never made it into the final game. If you wanna see more, I invite you to hunt down old videos of Haste in Landfall&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/@LandFallGames/videos&#34;&gt;YouTube&lt;/a&gt;, &lt;a href=&#34;https://www.instagram.com/landfall_official/&#34;&gt;Instagram&lt;/a&gt;, and &lt;a href=&#34;https://www.tiktok.com/@landfallgames&#34;&gt;TikTok&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t get me wrong though, I love Haste. It is still &lt;em&gt;the best execution&lt;/em&gt; of going fast that I&amp;rsquo;ve ever seen in a video game. I just courageously believe I can do it better.&lt;/p&gt;
 &lt;p&gt;Not with this demo of course. My main idea for the proper game is to import 1:1 scale terrain data of the entire state of &lt;a href=&#34;https://www.google.com/maps/place/Queensland/@-19.1595503,145.7755994,5z&#34;&gt;Queensland, Australia&lt;/a&gt; into Godot and have the player race from the south side of that to the north (about 2000km) over the course of a few hours, reaching speeds of hundreds of metres per second and zipping through real mountain ranges. It&amp;rsquo;d be like an epic convergence of Haste and Desert Bus. I&amp;rsquo;ve never seen anyone make such a large map in Godot, the technical underdog game engine, but dammit I&amp;rsquo;ll try. I &lt;em&gt;want&lt;/em&gt; to experience this fantasy &lt;em&gt;so bad&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;If you want to try this game/demo for yourself, you can download it &lt;a href=&#34;https://mega.nz/folder/zy4WzBQL#HMD0jEfG13QfAy44yGxFeA&#34;&gt;here&lt;/a&gt;. You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 5-6).&lt;/p&gt;
+&lt;p&gt;If you want to try this game/demo for yourself, you can download it &lt;a href=&#34;https://mega.nz/folder/DyREwSpb#Nifnx9RBWx_KW_Jq4SRaiA&#34;&gt;here&lt;/a&gt;. You can also find my full dev journal for this game &lt;a href=&#34;https://v3.pebblepad.com.au/spa/#/public/4jbrj5Mn6wsdGx4qztWhfmZGHr?historyId=fioz49KdVa&#34;&gt;here&lt;/a&gt; (in weeks 5-6).&lt;/p&gt;
 </description>
 	</item>
 	

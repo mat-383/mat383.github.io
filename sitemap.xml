@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mat383.com/blog/</loc>
+    <lastmod>2025-11-18T07:24:15+00:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/game-dev/</loc>
+    <lastmod>2025-11-18T07:24:15+00:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/blog/my-first-gamejam/</loc>
+    <lastmod>2025-11-18T07:24:15+00:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/outside/</loc>
+    <lastmod>2025-11-18T07:24:15+00:00</lastmod>
+  </url><url>
+    <loc>https://mat383.com/tags/</loc>
+    <lastmod>2025-11-18T07:24:15+00:00</lastmod>
+  </url><url>
     <loc>https://mat383.com/now/</loc>
     <lastmod>2025-08-21T15:53:35+10:00</lastmod>
   </url><url>
-    <loc>https://mat383.com/blog/</loc>
-    <lastmod>2025-08-16T15:53:35+10:00</lastmod>
-  </url><url>
     <loc>https://mat383.com/blog/drive-ahead-prototype/</loc>
-    <lastmod>2025-08-16T15:53:35+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/game-dev/</loc>
-    <lastmod>2025-08-16T15:53:35+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/</loc>
     <lastmod>2025-08-16T15:53:35+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/about/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2025-01-29T03:32:14+00:00</lastmod>
   </url><url>
     <loc>https://mat383.com/blog/cairns-holiday-pics/</loc>
-    <lastmod>2024-08-21T05:54:00+10:00</lastmod>
-  </url><url>
-    <loc>https://mat383.com/tags/outside/</loc>
     <lastmod>2024-08-21T05:54:00+10:00</lastmod>
   </url><url>
     <loc>https://mat383.com/blog/building-this-website/</loc>
